@@ -1,5 +1,18 @@
 ------------------------------------------------------------
 User: riccardo  Mon Nov  5 05:46:05 PST 2001
+detModel/src
+
+Modified Files:
+	main.cxx 
+Added Files:
+	Gdd.cxx 
+Removed Files:
+	GDD.cpp 
+Log Message:
+Inserted namespace detModel for the package
+    *
+------------------------------------------------------------
+User: riccardo  Mon Nov  5 05:46:05 PST 2001
 detModel/detModel/Utilities
 
 Added Files:
