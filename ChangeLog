@@ -3,6 +3,14 @@ TAG activity
 User: riccardo  Mon May 28 07:14:33 2001
 Tag name: v2
 Tag operation: add
+Repository: /nfs/slac/g/glast/ground/cvs/detModel/src/Sections
+File(s) and revision(s): GDDaxisMPos.cpp
+    *
+------------------------------------------------------------
+TAG activity
+User: riccardo  Mon May 28 07:14:33 2001
+Tag name: v2
+Tag operation: add
 Repository: /nfs/slac/g/glast/ground/cvs/detModel/src/Management
 File(s) and revision(s): GDDHTMLConstantsVisitor.cpp
     *
