@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Fri Mar  9 13:59:06 PST 2001
+detModel/xml flight.xml
+
+Modified Files:
+	flight.xml 
+Log Message:
+Put everything into a single <section> named LAT
+    *
+------------------------------------------------------------
 User: jrb  Fri Mar  9 10:21:22 PST 2001
 detModel/xml flight.xml gdd.dtd
 
