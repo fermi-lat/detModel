@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Fri Dec  7 10:01:37 PST 2001
+detModel/detModel/Utilities
+
+Modified Files:
+	PositionedVolume.h 
+Log Message:
+Modified the Composite class to accomodate not normalized fractionmass addition
+    *
+------------------------------------------------------------
 User: riccardo  Fri Dec  7 04:53:40 PST 2001
 detModel/src/Sections
 
