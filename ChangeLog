@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: jrb  Wed Oct  1 04:36:50 PDT 2003
+detModel/src/Management
+
+Modified Files:
+	DMDocClient.cxx Manager.cxx XercesBuilder.cxx 
+Log Message:
+1. Many small changes so detModel will parse id dictionary segment of 
+   geometry, making id field name translation available.
+2. Small bug fix to test program main.cxx
+
+    *
+------------------------------------------------------------
+User: jrb  Wed Oct  1 04:36:50 PDT 2003
 detModel/src
 
 Modified Files:
