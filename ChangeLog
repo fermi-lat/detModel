@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Tue Oct 30 02:18:35 PST 2001
+detModel/detModel/Utilities GDDcolor.h GDDcolorCreator.h
+
+Added Files:
+	GDDcolor.h GDDcolorCreator.h 
+Log Message:
+Added a new
+mechanism for color generation
+    *
+------------------------------------------------------------
 User: riccardo  Tue Oct 30 02:15:14 PST 2001
 detModel/src/Sections GDDensemble.cpp GDDaxisMPos.cpp GDDaxisPos.cpp GDDsection.cpp GDDensamble.cpp
 
