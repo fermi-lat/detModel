@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Nov 10 11:49:09 PST 2004
+detModel/src/Management
+
+Modified Files:
+	DMDocClient.cxx XercesBuilder.cxx 
+Log Message:
+Code changes for compatability with Xerces 2.6.0 
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Nov 10 11:48:54 PST 2004
 detModel/detModel/Management
 
