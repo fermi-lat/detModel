@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: riccardo  Mon Nov  5 05:46:05 PST 2001
+detModel/detModel/Utilities
+
+Added Files:
+	Color.h ColorCreator.h Matrix.h Purge.h 
+Removed Files:
+	GDDcolor.h GDDcolorCreator.h GDDmatrix.h GDDpurge.h 
+Log Message:
+Inserted namespace detModel for the package
+    *
+------------------------------------------------------------
 User: riccardo  Mon Nov  5 05:46:04 PST 2001
 detModel/detModel/Sections
 
