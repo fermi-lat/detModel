@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Thu Nov  8 15:21:48 PST 2001
+detModel/src
+
+Modified Files:
+	Gdd.cxx 
+Log Message:
+A couple small changes to get rid of Windows compilation errors
+
+    *
+------------------------------------------------------------
 User: riccardo  Mon Nov  5 05:46:07 PST 2001
 detModel/src/Utilities
 
