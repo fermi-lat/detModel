@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Fri Mar 19 10:47:32 PST 2004
+detModel/detModel/Management
+
+Modified Files:
+	Builder.h Manager.h XercesBuilder.h 
+Log Message:
+Change return of some methods from void to bool so caller can find out
+if parse succeeded
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Feb 25 16:00:29 PST 2004
 detModel/doc
 
