@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar 21 02:16:36 PST 2001
+detModel/src/Constants GDDconstCategory.cpp GDDconstants.cpp
+
+Added Files:
+	GDDconstCategory.cpp GDDconstants.cpp 
+Log Message:
+Added visitor for constants category
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar 21 02:15:44 PST 2001
 detModel/src/Management GDDXercesBuilder.cpp GDDmanager.cpp
 
