@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar 21 02:17:28 PST 2001
+detModel/src/Management GDDprinterConstantsVisitor.cpp
+
+Added Files:
+	GDDprinterConstantsVisitor.cpp 
+Log Message:
+Added visitor for constants category
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar 21 02:16:36 PST 2001
 detModel/src/Constants GDDconstCategory.cpp GDDconstants.cpp
 
