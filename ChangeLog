@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Fri Nov 23 00:05:44 PST 2001
+detModel/src/Management
+
+Modified Files:
+	DawnSectionsVisitor.cxx Manager.cxx 
+Log Message:
+Removed Matrix and added new Vector class
+    *
+------------------------------------------------------------
+User: riccardo  Fri Nov 23 00:05:44 PST 2001
 detModel/src
 
 Modified Files:
