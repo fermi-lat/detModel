@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Wed Feb  4 10:22:58 PST 2004
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+Don't forget to handle id fields in setAttributeRelativePosition as well
+as setAttributePosition
+
+    *
+------------------------------------------------------------
 User: jrb  Thu Jan 29 09:02:22 PST 2004
 detModel/doc
 
