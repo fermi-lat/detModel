@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: riccardo  Mon Mar 19 07:04:08 PST 2001
+detModel/src/Management GDDXercesBuilder.cpp GDDmanager.cpp GDDprinterSectionsVisitor.cpp
+
+Modified Files:
+	GDDXercesBuilder.cpp GDDmanager.cpp 
+	GDDprinterSectionsVisitor.cpp 
+Log Message:
+Solved a problem with comment in axisMPos and added multiple idField to a position
+    *
+------------------------------------------------------------
+User: riccardo  Mon Mar 19 07:04:08 PST 2001
 detModel/src GDD.cpp
 
 Modified Files:
