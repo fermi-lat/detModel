@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Fri Sep 13 16:53:38 PDT 2002
+detModel/src/Constants
+
+Modified Files:
+	Const.cxx 
+Log Message:
+Extend kinds of units respected to include energy
+
+    *
+------------------------------------------------------------
 User: jrb  Fri Sep 13 16:53:20 PDT 2002
 detModel/detModel/Constants
 
