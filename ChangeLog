@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: jrb  Fri Aug 10 17:47:27 PDT 2001
+detModel/src/Constants GDDconst.cpp
+
+Modified Files:
+	GDDconst.cpp 
+Log Message:
+Add std:: for string,vector,map
+Change #include <vector.h> to #include <vector> and so forth
+
+    *
+------------------------------------------------------------
+User: jrb  Fri Aug 10 17:47:27 PDT 2001
 detModel/src main.cxx
 
 Modified Files:
