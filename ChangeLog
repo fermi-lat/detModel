@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:22:47 PST 2001
+detModel/detModel/Utilities GDDpurge.h
+
+Modified Files:
+	GDDpurge.h 
+Log Message:
+First check in of new refactored detModel
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:22:47 PST 2001
 detModel/detModel/Sections GDDboundable.h GDDboundingBox.h GDDensamble.h GDDposition.h GDDsinglePos.h GDDstackedPos.h GDDunits.h GDDaxisMPos.h GDDaxisPos.h GDDbox.h GDDcomposition.h GDDlogicalOp.h GDDposRPhiZ.h GDDposXYZ.h GDDsection.h GDDseg.h GDDshape.h GDDstack.h GDDvolume.h GDDanyPosition.h GDDanyRelativePosition.h GDDanySinglePosition.h
 
 Modified Files:
