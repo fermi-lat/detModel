@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Nov 10 11:48:28 PST 2004
+detModel/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Use Xerces 2.6.0 compatible xml, xmlUtil
+
+    *
+------------------------------------------------------------
 User: burnett  Thu Aug 12 18:20:32 PDT 2004
 detModel/doc
 
