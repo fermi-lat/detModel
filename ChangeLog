@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed May 29 15:26:02 PDT 2002
+detModel/detModel/Management
+
+Modified Files:
+	DMDocClient.h XercesBuilder.h 
+Log Message:
+Pass DOM_Node, DOM_Element by value as recommended by Xerces folk
+
+    *
+------------------------------------------------------------
 User: jrb  Tue May 28 14:58:42 PDT 2002
 detModel/src/Management
 
