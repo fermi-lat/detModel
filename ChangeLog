@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: riccardo  Tue Oct  9 01:57:39 PDT 2001
+detModel/detModel/Sections GDDanyRelativePosition.h GDDaxisMPos.h GDDaxisPos.h GDDidField.h GDDstack.h
+
+Modified Files:
+	GDDanyRelativePosition.h GDDaxisMPos.h GDDaxisPos.h 
+	GDDidField.h GDDstack.h 
+Log Message:
+Added envelope rendering to the VRML visitor
+    *
+------------------------------------------------------------
+User: riccardo  Tue Oct  9 01:57:39 PDT 2001
 detModel/cmt cleanup.csh cleanup.sh setup.csh setup.sh
 
 Modified Files:
