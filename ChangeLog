@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Tue Mar 20 03:15:26 PST 2001
+detModel/detModel/Management GDDVRMLSectionsVisitor.h GDDXercesBuilder.h GDDmanager.h
+
+Modified Files:
+	GDDVRMLSectionsVisitor.h GDDXercesBuilder.h GDDmanager.h 
+Log Message:
+Added constants category and modified GDDidField
+    *
+------------------------------------------------------------
+User: riccardo  Tue Mar 20 03:15:26 PST 2001
 detModel/detModel/Constants GDDdoubleConst.h GDDfloatConst.h GDDintConst.h GDDstringConst.h GDDconst.h GDDconstCategory.h GDDconstants.h GDDderCategory.h GDDprim.h GDDprimCategory.h
 
 Modified Files:
