@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Oct 31 09:57:35 PST 2001
+detModel/detModel/Utilities GDDmatrix.h
+
+Modified Files:
+	GDDmatrix.h 
+Log Message:
+Some minor changes
+    *
+------------------------------------------------------------
 User: riccardo  Wed Oct 31 02:55:26 PST 2001
 detModel/src/Sections GDDcomposition.cpp GDDstack.cpp
 
