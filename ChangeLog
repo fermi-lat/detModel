@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:42:44 PST 2001
+detModel/detModel/Management GDDmanager.h
+
+Modified Files:
+	GDDmanager.h 
+Log Message:
+Solved some trivial warnings in compilation
+    *
+------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:22:48 PST 2001
 detModel/src/Sections GDDboundingBox.cpp GDDensamble.cpp GDDunits.cpp GDDaxisMPos.cpp GDDaxisPos.cpp GDDbox.cpp GDDcomposition.cpp GDDposXYZ.cpp GDDsection.cpp GDDstack.cpp
 
