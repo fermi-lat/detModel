@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Mon Mar 19 07:04:09 PST 2001
+detModel/src/Sections GDDaxisMPos.cpp GDDaxisPos.cpp GDDposXYZ.cpp GDDsection.cpp
+
+Modified Files:
+	GDDaxisMPos.cpp GDDaxisPos.cpp GDDposXYZ.cpp GDDsection.cpp 
+Log Message:
+Solved a problem with comment in axisMPos and added multiple idField to a position
+    *
+------------------------------------------------------------
 User: riccardo  Mon Mar 19 07:04:08 PST 2001
 detModel/src/Management GDDXercesBuilder.cpp GDDmanager.cpp GDDprinterSectionsVisitor.cpp
 
