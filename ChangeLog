@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:42:44 PST 2001
+detModel/detModel/Sections GDDboundable.h GDDsinglePos.h GDDvolume.h
+
+Modified Files:
+	GDDboundable.h GDDsinglePos.h GDDvolume.h 
+Log Message:
+Solved some trivial warnings in compilation
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:42:44 PST 2001
 detModel/detModel/Management GDDmanager.h
 
 Modified Files:
