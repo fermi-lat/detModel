@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Wed Aug 14 17:33:57 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	IDmapBuilder.cxx 
+Log Message:
+More expedient, and maybe even more logical, to let "prefix" id include
+fields associated with the top volume; similarly for prefix transform.
+
+    *
+------------------------------------------------------------
 User: jrb  Tue Aug  6 13:03:55 PDT 2002
 detModel/detModel/Management
 
