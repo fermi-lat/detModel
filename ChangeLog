@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar 14 01:07:24 PST 2001
+detModel/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+New requirements for detModel
+    *
+------------------------------------------------------------
 User: jrb  Tue Mar 13 09:53:48 PST 2001
 detModel/xml flight.xml gdd.dtd primextract.xsl
 
