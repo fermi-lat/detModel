@@ -1,4 +1,18 @@
 ------------------------------------------------------------
+User: jrb  Tue Jul 23 14:12:59 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	IDmapBuilder.cxx Manager.cxx XercesBuilder.cxx 
+Log Message:
+IDmapBuilder:  Keep track of prefix id and rotation during map build;
+               add new methods for non-root top volume users
+Manager:       New getNumericConstByName(... int*) method
+XercesBuilder: Proper handling for derived constants explicitly declared
+               int
+
+    *
+------------------------------------------------------------
 User: jrb  Tue Jul 23 14:07:37 PDT 2002
 detModel/src
 
