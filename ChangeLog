@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Aug  2 09:08:12 PDT 2001
+detModel/detModel mainpage.h
+
+Modified Files:
+	mainpage.h 
+Log Message:
+started refactoring - minor changes
+    *
+------------------------------------------------------------
 User: riccardo  Wed Jul 18 00:58:58 PDT 2001
 detModel/src/Management GDDVRMLSectionsVisitor.cpp
 
