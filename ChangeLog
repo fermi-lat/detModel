@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:22:46 PST 2001
+detModel/detModel/Constants GDDconst.h GDDdoubleConst.h GDDfloatConst.h GDDintConst.h GDDstringConst.h
+
+Modified Files:
+	GDDconst.h GDDdoubleConst.h GDDfloatConst.h GDDintConst.h 
+	GDDstringConst.h 
+Log Message:
+First check in of new refactored detModel
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:22:46 PST 2001
 detModel/detModel GDD.h
 
 Modified Files:
