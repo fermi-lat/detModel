@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Wed Jan 28 10:41:51 PST 2004
+detModel/src/Management
+
+Modified Files:
+	DMDocClient.cxx XercesBuilder.cxx 
+Log Message:
+Lots of internal changes to converting native Xerces calls to calls of 
+utilities in xml::Dom
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Jan 28 10:39:18 PST 2004
 detModel/detModel/Sections
 
