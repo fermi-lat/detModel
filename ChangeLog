@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Wed Mar 21 02:15:44 PST 2001
+detModel/src/Constants GDDconst.cpp
+
+Modified Files:
+	GDDconst.cpp 
+Log Message:
+Added visitor for constants category
+    *
+------------------------------------------------------------
+User: riccardo  Wed Mar 21 02:15:44 PST 2001
 detModel/src GDD.cpp main.cxx
 
 Modified Files:
