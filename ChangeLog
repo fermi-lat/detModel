@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Mon Nov 26 21:17:27 PST 2001
+detModel/src/Sections
+
+Modified Files:
+	Choice.cxx 
+Log Message:
+fix bug undetected by gcc
+    *
+------------------------------------------------------------
 User: jrb  Mon Nov 26 10:05:16 PST 2001
 detModel/cmt
 
