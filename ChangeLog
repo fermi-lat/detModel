@@ -3,6 +3,14 @@ TAG activity
 User: riccardo  Mon May 28 07:14:32 2001
 Tag name: v2
 Tag operation: add
+Repository: /nfs/slac/g/glast/ground/cvs/detModel/src
+File(s) and revision(s): GDD.cpp
+    *
+------------------------------------------------------------
+TAG activity
+User: riccardo  Mon May 28 07:14:32 2001
+Tag name: v2
+Tag operation: add
 Repository: /nfs/slac/g/glast/ground/cvs/detModel/detModel/Sections
 File(s) and revision(s): GDDanyPosition.h
     *
