@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug 10 17:47:25 PDT 2001
+detModel/cmt cleanup.csh cleanup.sh setup.csh setup.sh
+
+Modified Files:
+	cleanup.csh cleanup.sh setup.csh setup.sh 
+Log Message:
+Add std:: for string,vector,map
+Change #include <vector.h> to #include <vector> and so forth
+
+    *
+------------------------------------------------------------
 User: riccardo  Thu Aug  2 09:18:29 PDT 2001
 detModel/cmt requirements
 
