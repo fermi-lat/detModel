@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: riccardo  Mon Dec  3 07:30:32 PST 2001
+detModel/src/Management
+
+Modified Files:
+	PrinterSectionsVisitor.cxx VrmlSectionsVisitor.cxx 
+	XercesBuilder.cxx 
+Log Message:
+Added Tube
+    *
+------------------------------------------------------------
+User: riccardo  Mon Dec  3 07:30:32 PST 2001
 detModel/detModel/Sections
 
 Modified Files:
