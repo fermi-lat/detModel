@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Tue May 28 14:58:05 PDT 2002
+detModel/src
+
+Modified Files:
+	main.cxx 
+Log Message:
+Invoke modified HtmlConstantsVisitor with () 
+
+    *
+------------------------------------------------------------
 User: jrb  Tue May 28 14:57:01 PDT 2002
 detModel/detModel/Management
 
