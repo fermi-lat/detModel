@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Aug  2 09:08:14 PDT 2001
+detModel/src GDD.cpp main.cxx
+
+Modified Files:
+	GDD.cpp main.cxx 
+Log Message:
+started refactoring - minor changes
+    *
+------------------------------------------------------------
 User: riccardo  Thu Aug  2 09:08:13 PDT 2001
 detModel/detModel/Sections GDDanyPosition.h GDDanyRelativePosition.h GDDaxisPos.h GDDidField.h GDDshape.h GDDstack.h GDDvolume.h
 
