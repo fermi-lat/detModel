@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Mon Nov 26 10:05:16 PST 2001
+detModel/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Just "use xmlUtil" rather than "use xmlUtil HEAD" 
+
+    *
+------------------------------------------------------------
 User: riccardo  Mon Nov 26 08:50:50 PST 2001
 detModel/src/Sections
 
