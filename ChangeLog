@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: riccardo  Sun Nov 11 09:23:52 PST 2001
+detModel/src/Management
+
+Modified Files:
+	Manager.cxx VrmlSectionsVisitor.cxx XercesBuilder.cxx 
+Added Files:
+	DawnSectionsVisitor.cxx PrinterMaterialsVisitor.cxx 
+Log Message:
+New category materials added, lots of minor changes around due to the new category, fixed linefeeds problem, new DAWN visitor added
+    *
+------------------------------------------------------------
 User: riccardo  Sun Nov 11 09:23:51 PST 2001
 detModel/src
 
