@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Feb 22 13:30:23 PST 2001
+detModel/xml flight.xml
+
+Modified Files:
+	flight.xml 
+Log Message:
+Capitalize correctly for embedded CVS keywords
+    *
+------------------------------------------------------------
 User: jrb  Thu Feb 22 13:23:29 PST 2001
 detModel/xml flight.xml gdd.dtd
 
