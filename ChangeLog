@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Feb 20 15:32:16 PST 2002
+detModel/src
+
+Modified Files:
+	main.cxx 
+Log Message:
+Fix dumb compilation error
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Feb 20 15:28:34 PST 2002
 detModel/src/Sections
 
