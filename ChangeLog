@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Mon Jan  3 11:27:01 PST 2005
+detModel/src/Management
+
+Modified Files:
+	DMDocClient.cxx XercesBuilder.cxx 
+Log Message:
+Use xmlBase package rather than xml (changes to #includes; namespace refs)
+
+    *
+------------------------------------------------------------
 User: jrb  Mon Jan  3 11:26:49 PST 2005
 detModel/detModel/Management
 
