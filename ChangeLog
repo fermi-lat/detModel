@@ -1,5 +1,24 @@
 ------------------------------------------------------------
 User: riccardo  Mon Nov  5 05:46:04 PST 2001
+detModel/detModel/Sections
+
+Added Files:
+	AxisMPos.h Boundable.h BoundingBox.h Box.h Choice.h 
+	Composition.h Cone.h Ensemble.h IdField.h LogicalOp.h PosXYZ.h 
+	Position.h Section.h Seg.h Shape.h SinglePos.h Stack.h 
+	StackedPos.h Tube.h Units.h Volume.h 
+Removed Files:
+	GDDaxisMPos.h GDDboundable.h GDDboundingBox.h GDDbox.h 
+	GDDchoice.h GDDcomposition.h GDDcone.h GDDensemble.h 
+	GDDidField.h GDDlogicalOp.h GDDmposPhi.h GDDmposR.h GDDmposX.h 
+	GDDmposY.h GDDmposZ.h GDDposRPhiZ.h GDDposXYZ.h GDDposition.h 
+	GDDsection.h GDDseg.h GDDshape.h GDDsinglePos.h GDDstack.h 
+	GDDstackedPos.h GDDtube.h GDDunits.h GDDvolume.h 
+Log Message:
+Inserted namespace detModel for the package
+    *
+------------------------------------------------------------
+User: riccardo  Mon Nov  5 05:46:04 PST 2001
 detModel/detModel/Management
 
 Added Files:
