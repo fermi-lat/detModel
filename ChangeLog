@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Fri Dec  7 04:53:39 PST 2001
+detModel/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Added new classes: PositionedVolume and IDmapBuilder to manage volumes ID association to physical positioned volume. detModel is starting to use also CLHEP (new requirements file). Some minor bugs and comments added.
+    *
+------------------------------------------------------------
 User: riccardo  Mon Dec  3 08:58:30 PST 2001
 detModel/src/Sections
 
