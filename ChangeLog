@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Thu Apr 12 00:51:49 PDT 2001
+detModel/src/Management GDDXercesBuilder.cpp
+
+Modified Files:
+	GDDXercesBuilder.cpp 
+Log Message:
+New version for xmlUtil package usage
+    *
+------------------------------------------------------------
+User: riccardo  Thu Apr 12 00:51:49 PDT 2001
 detModel/src main.cxx
 
 Modified Files:
