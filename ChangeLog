@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: riccardo  Mon Nov  5 05:46:05 PST 2001
+detModel/src/Constants
+
+Added Files:
+	Const.cxx ConstCategory.cxx Constants.cxx 
+Removed Files:
+	GDDconst.cpp GDDconstCategory.cpp GDDconstants.cpp 
+Log Message:
+Inserted namespace detModel for the package
+    *
+------------------------------------------------------------
+User: riccardo  Mon Nov  5 05:46:05 PST 2001
 detModel/src
 
 Modified Files:
