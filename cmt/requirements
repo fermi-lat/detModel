@@ -1,13 +1,13 @@
 package detModel
 
-# $Header: /nfs/slac/g/glast/ground/cvs/detModel/cmt/requirements,v 1.35 2004/02/04 18:24:06 jrb Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/detModel/cmt/requirements,v 1.36 2004/02/19 22:43:45 jrb Exp $
 version v2r15p2
 
 author Riccardo Giannitrapani <riccardo@fisica.uniud.it>
 author Joanne Bogart <jrb@slac.stanford.edu>
 
 use CLHEP   v2* IExternal
-use xmlUtil
+use xmlUtil v2*
 use idents
 
 apply_pattern shared_library
