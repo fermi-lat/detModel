@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Fri May 14 16:04:16 PDT 2004
+detModel/detModel/Management
+
+Modified Files:
+	SectionsVisitor.h 
+Log Message:
+Fix to eliminate harmless warning
+
+    *
+------------------------------------------------------------
 User: jrb  Fri Mar 19 10:49:13 PST 2004
 detModel/doc
 
