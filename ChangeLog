@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: jrb  Tue Nov 27 16:30:38 PST 2001
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+Comment out the 2 lines having to do with the mysterious and unused
+"S" attribute of <posXYZ> so that this attribute may be removed from 
+gdd.dtd
+
+    *
+------------------------------------------------------------
 User: burnett  Mon Nov 26 21:17:27 PST 2001
 detModel/src/Sections
 
