@@ -1,4 +1,75 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar 14 01:11:21 PST 2001
+detModel - Imported sources
+
+Log Message:
+First import of GDD classes in detModel
+
+Status:
+
+Vendor Tag:	detModel
+Release Tags:	v1r1
+		
+N detModel/detModel/GDDpurge.h
+N detModel/detModel/GDD.h
+U detModel/detModel/mainpage.h
+N detModel/detModel/Constants/GDDconst.h
+N detModel/detModel/Constants/GDDconstCategory.h
+N detModel/detModel/Constants/GDDconstants.h
+N detModel/detModel/Constants/GDDderCategory.h
+N detModel/detModel/Constants/GDDprim.h
+N detModel/detModel/Constants/GDDprimCategory.h
+N detModel/detModel/Management/GDDVRMLSectionsVisitor.h
+N detModel/detModel/Management/GDDXercesBuilder.h
+N detModel/detModel/Management/GDDbuilder.h
+N detModel/detModel/Management/GDDconstantsVisitor.h
+N detModel/detModel/Management/GDDmanager.h
+N detModel/detModel/Management/GDDprinterSectionsVisitor.h
+N detModel/detModel/Management/GDDsectionsVisitor.h
+N detModel/detModel/Management/GDDvisitor.h
+N detModel/detModel/Sections/GDDanyPosition.h
+N detModel/detModel/Sections/GDDanyRelativePosition.h
+N detModel/detModel/Sections/GDDanySinglePosition.h
+N detModel/detModel/Sections/GDDaxisMPos.h
+N detModel/detModel/Sections/GDDaxisPos.h
+N detModel/detModel/Sections/GDDbox.h
+N detModel/detModel/Sections/GDDchoice.h
+N detModel/detModel/Sections/GDDcomposition.h
+N detModel/detModel/Sections/GDDcone.h
+N detModel/detModel/Sections/GDDidField.h
+N detModel/detModel/Sections/GDDlogicalOp.h
+N detModel/detModel/Sections/GDDmposPhi.h
+N detModel/detModel/Sections/GDDmposR.h
+N detModel/detModel/Sections/GDDmposX.h
+N detModel/detModel/Sections/GDDmposY.h
+N detModel/detModel/Sections/GDDmposZ.h
+N detModel/detModel/Sections/GDDposRPhiZ.h
+N detModel/detModel/Sections/GDDposXYZ.h
+N detModel/detModel/Sections/GDDsection.h
+N detModel/detModel/Sections/GDDseg.h
+N detModel/detModel/Sections/GDDshape.h
+N detModel/detModel/Sections/GDDstack.h
+N detModel/detModel/Sections/GDDtube.h
+N detModel/detModel/Sections/GDDvolume.h
+N detModel/src/main.cxx
+N detModel/src/GDD.cpp
+N detModel/src/Management/GDDVRMLSectionsVisitor.cpp
+N detModel/src/Management/GDDXercesBuilder.cpp
+N detModel/src/Management/GDDmanager.cpp
+N detModel/src/Management/GDDprinterSectionsVisitor.cpp
+N detModel/src/Sections/GDDaxisMPos.cpp
+N detModel/src/Sections/GDDaxisPos.cpp
+N detModel/src/Sections/GDDchoice.cpp
+N detModel/src/Sections/GDDcomposition.cpp
+N detModel/src/Sections/GDDidField.cpp
+N detModel/src/Sections/GDDposXYZ.cpp
+N detModel/src/Sections/GDDsection.cpp
+N detModel/src/Sections/GDDstack.cpp
+
+No conflicts created by this import
+
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar 14 01:07:24 PST 2001
 detModel/cmt requirements
 
