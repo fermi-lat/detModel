@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: burnett  Fri Nov 30 07:19:01 PST 2001
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+remove unreferenced warnings; put in const_cast for buildSection call.
+
+    *
+------------------------------------------------------------
 User: riccardo  Fri Nov 30 05:34:23 PST 2001
 detModel/src/Management
 
