@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Fri Nov 23 01:07:00 PST 2001
+detModel/src/Sections
+
+Modified Files:
+	AxisMPos.cxx Stack.cxx 
+Log Message:
+Deal with shift and shift0 for AxisMPos positions
+    *
+------------------------------------------------------------
+User: riccardo  Fri Nov 23 01:07:00 PST 2001
 detModel/src
 
 Modified Files:
