@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: riccardo  Thu Nov 29 07:16:46 PST 2001
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Added Files:
+	DMDocClient.cxx 
+Log Message:
+Added a first draft version of DocManager use for parsing the xml file; some changes in XercesBuilder
+    *
+------------------------------------------------------------
+User: riccardo  Thu Nov 29 07:16:46 PST 2001
 detModel/detModel/Management
 
 Modified Files:
