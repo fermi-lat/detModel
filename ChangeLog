@@ -1,5 +1,20 @@
 ------------------------------------------------------------
 User: riccardo  Tue Oct 30 02:15:13 PST 2001
+detModel/detModel/Sections GDDensemble.h GDDaxisMPos.h GDDaxisPos.h GDDcomposition.h GDDlogicalOp.h GDDstack.h GDDstackedPos.h GDDensamble.h
+
+Modified Files:
+	GDDaxisMPos.h GDDaxisPos.h GDDcomposition.h GDDlogicalOp.h 
+	GDDstack.h GDDstackedPos.h 
+Added Files:
+	GDDensemble.h 
+Removed Files:
+	GDDensamble.h 
+Log Message:
+Fixed the name of GDDensamble in GDDensemble, added a new
+mechanism for color generation
+    *
+------------------------------------------------------------
+User: riccardo  Tue Oct 30 02:15:13 PST 2001
 detModel/detModel/Management GDDVRMLSectionsVisitor.h GDDprinterSectionsVisitor.h GDDsectionsVisitor.h
 
 Modified Files:
