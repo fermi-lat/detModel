@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Mon May 28 06:54:09 PDT 2001
+detModel/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+Some minor changes to comply to the new Gaudi version
+    *
+------------------------------------------------------------
 User: riccardo  Thu Apr 12 00:52:48 PDT 2001
 detModel/src main.cxx
 
