@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Wed Feb  7 11:17:56 PST 2001
+detModel/xml flight.xml gdd.dtd
+
+Modified Files:
+	flight.xml gdd.dtd 
+Log Message:
+Better separation between derived and primary constants
+    *
+------------------------------------------------------------
 User: jrb  Mon Feb  5 16:10:14 PST 2001
 detModel/xml flight.xml
 
