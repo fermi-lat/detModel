@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: riccardo  Fri Oct 19 01:28:25 PDT 2001
+detModel/detModel/Management GDDmanager.h
+
+Modified Files:
+	GDDmanager.h 
+Log Message:
+Some minor changes:
+ - Fixed some problems in GDDfakeBuilder
+ - Use of iterators in the GDDVRMLsectionsVisitor
+    *
+------------------------------------------------------------
 User: riccardo  Fri Oct 19 01:28:24 PDT 2001
 detModel/detModel GDD.h
 
