@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar 13 02:46:17 PST 2002
+detModel/detModel/Management
+
+Modified Files:
+	Manager.h 
+Log Message:
+Added new method to the Manager to retrive a constant by name
+
+    *
+------------------------------------------------------------
 User: riccardo  Mon Mar 11 09:20:30 PST 2002
 detModel/src/Management
 
