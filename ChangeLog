@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Tue Apr  9 06:18:29 PDT 2002
+detModel/detModel/Management
+
+Modified Files:
+	Manager.h 
+Log Message:
+Added support for new fineChoice attribute of XML <section> tag
+
+    *
+------------------------------------------------------------
 User: riccardo  Tue Apr  9 06:18:27 PDT 2002
 detModel/detModel
 
