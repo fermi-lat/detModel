@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar 21 04:58:28 PST 2001
+detModel/src main.cxx
+
+Modified Files:
+	main.cxx 
+Log Message:
+Added the GDDHTMLConstantsVisitor and added some comments in the main
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar 21 04:58:27 PST 2001
 detModel/detModel/Management GDDHTMLConstantsVisitor.h
 
