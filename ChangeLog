@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Thu May 30 14:51:38 PDT 2002
+detModel/detModel/Management
+
+Modified Files:
+	DMDocClient.h Manager.h 
+Log Message:
+Manager.h        Eliminate include of self
+DMDocClient.h    Use < > for Xerces includes
+
+    *
+------------------------------------------------------------
 User: jrb  Thu May 30 13:52:28 PDT 2002
 detModel/src/Management
 
