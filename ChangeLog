@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Thu Nov  1 06:38:43 PST 2001
+detModel/detModel/Management GDDVRMLSectionsVisitor.h GDDprinterSectionsVisitor.h GDDsectionsVisitor.h
+
+Modified Files:
+	GDDVRMLSectionsVisitor.h GDDprinterSectionsVisitor.h 
+	GDDsectionsVisitor.h 
+Log Message:
+Removed axisPos, some other minor changes
+    *
+------------------------------------------------------------
 User: riccardo  Wed Oct 31 09:57:35 PST 2001
 detModel/detModel/Utilities GDDmatrix.h
 
