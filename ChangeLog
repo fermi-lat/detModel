@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Thu Nov 29 01:56:00 PST 2001
+detModel/src/Sections
+
+Modified Files:
+	AxisMPos.cxx 
+Log Message:
+Some bug fixed
+    *
+------------------------------------------------------------
+User: riccardo  Thu Nov 29 01:56:00 PST 2001
 detModel/src/Management
 
 Modified Files:
