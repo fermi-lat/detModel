@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Dec 11 02:25:39 PST 2001
+detModel/detModel/Sections
+
+Modified Files:
+	Shape.h 
+Log Message:
+Added support for new detectorType attribute in gdd.dtd
+    *
+------------------------------------------------------------
 User: riccardo  Fri Dec  7 10:01:37 PST 2001
 detModel/src/Materials
 
