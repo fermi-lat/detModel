@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 08:17:59 PST 2001
+detModel/src/Management GDDXercesBuilder.cpp
+
+Modified Files:
+	GDDXercesBuilder.cpp 
+Log Message:
+Reinserted XercesBuilder after refactoring
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 08:17:59 PST 2001
 detModel/src main.cxx
 
 Modified Files:
