@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Tue Oct  9 01:57:40 PDT 2001
+detModel/src/Sections GDDaxisPos.cpp GDDstack.cpp
+
+Modified Files:
+	GDDaxisPos.cpp GDDstack.cpp 
+Log Message:
+Added envelope rendering to the VRML visitor
+    *
+------------------------------------------------------------
+User: riccardo  Tue Oct  9 01:57:40 PDT 2001
 detModel/src/Management GDDVRMLSectionsVisitor.cpp GDDXercesBuilder.cpp
 
 Modified Files:
