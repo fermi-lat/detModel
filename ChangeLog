@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Sun Mar 16 21:55:07 PST 2003
+detModel/detModel/Management
+
+Modified Files:
+	DMDocClient.h 
+Log Message:
+Change includes of Xerces to use xercesc/ at front of path (for Xerces 1.7.0)
+
+    *
+------------------------------------------------------------
 User: jrb  Sun Mar 16 21:53:57 PST 2003
 detModel
 
