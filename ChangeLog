@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Mar 29 06:54:39 PST 2001
+detModel/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+Solved problems with Bounding Box, new version of GDDVRMLSectionsVisitor with automatic color scheme
+    *
+------------------------------------------------------------
 User: riccardo  Fri Mar 23 10:07:42 PST 2001
 detModel/src/Sections GDDcomposition.cpp
 
