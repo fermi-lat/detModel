@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: riccardo  Thu May 23 02:47:03 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	IDmapBuilder.cxx 
+Log Message:
+Added a new method to the IDmapBuilder to retrieve a shape dimensions and type from the 
+id of the volume (working for boxes, but to be completed for tubes)
+
+    *
+------------------------------------------------------------
 User: riccardo  Thu May 23 02:47:02 PDT 2002
 detModel/detModel/Management
 
