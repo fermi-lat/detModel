@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Tue Mar 13 09:53:48 PST 2001
+detModel/xml flight.xml gdd.dtd primextract.xsl
+
+Removed Files:
+	flight.xml gdd.dtd primextract.xsl 
+Log Message:
+move these files to xml package
+    *
+------------------------------------------------------------
 User: jrb  Fri Mar  9 13:59:06 PST 2001
 detModel/xml flight.xml
 
