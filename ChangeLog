@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Mon Mar 19 07:04:08 PST 2001
+detModel/detModel/Management GDDVRMLSectionsVisitor.h GDDXercesBuilder.h
+
+Modified Files:
+	GDDVRMLSectionsVisitor.h GDDXercesBuilder.h 
+Log Message:
+Solved a problem with comment in axisMPos and added multiple idField to a position
+    *
+------------------------------------------------------------
+User: riccardo  Mon Mar 19 07:04:08 PST 2001
 detModel/cmt cleanup.csh cleanup.sh setup.csh setup.sh
 
 Modified Files:
