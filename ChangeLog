@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Wed Oct 31 02:55:26 PST 2001
+detModel/src/Management GDDXercesBuilder.cpp GDDprinterSectionsVisitor.cpp
+
+Modified Files:
+	GDDXercesBuilder.cpp GDDprinterSectionsVisitor.cpp 
+Log Message:
+Added template method to ensemble to check positions added, refitted GDDprinterSectionsVisitor, started to delete GDDaxisPos from the package
+    *
+------------------------------------------------------------
+User: riccardo  Wed Oct 31 02:55:26 PST 2001
 detModel/detModel/Sections GDDaxisMPos.h GDDcomposition.h GDDensemble.h GDDposRPhiZ.h GDDstack.h GDDstackedPos.h
 
 Modified Files:
