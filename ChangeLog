@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Fri Nov 23 01:07:00 PST 2001
+detModel/src
+
+Modified Files:
+	main.cxx 
+Log Message:
+Deal with shift and shift0 for AxisMPos positions
+    *
+------------------------------------------------------------
 User: riccardo  Fri Nov 23 00:05:45 PST 2001
 detModel/src/Utilities
 
