@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Jul 17 08:59:17 PDT 2001
+detModel/detModel/Management GDDFakeBuilder.h
+
+Added Files:
+	GDDFakeBuilder.h 
+Log Message:
+Added a fake builder
+    *
+------------------------------------------------------------
 User: riccardo  Mon Jul 16 08:04:44 PDT 2001
 detModel/src/Management GDDVRMLSectionsVisitor.cpp
 
