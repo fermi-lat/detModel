@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: burnett  Tue Jan  1 18:25:40 PST 2002
+detModel/detModel/Management
+
+Modified Files:
+	IDmapBuilder.h 
+Log Message:
+Added a separate output: a vector of ids in the order created
+
+    *
+------------------------------------------------------------
 User: burnett  Wed Dec 19 02:48:04 PST 2001
 detModel/detModel/Utilities
 
