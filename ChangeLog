@@ -1,4 +1,12 @@
 ------------------------------------------------------------
+TAG activity
+User: riccardo  Mon May 28 07:14:08 2001
+Tag name: v2
+Tag operation: add
+Repository: /nfs/slac/g/glast/ground/cvs/detModel/cmt
+File(s) and revision(s): Makefile
+    *
+------------------------------------------------------------
 User: riccardo  Mon May 28 06:54:09 PDT 2001
 detModel/src/Management GDDXercesBuilder.cpp
 
