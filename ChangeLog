@@ -1,4 +1,19 @@
 ------------------------------------------------------------
+User: riccardo  Mon Nov  5 05:46:07 PST 2001
+detModel/src/Sections
+
+Added Files:
+	AxisMPos.cxx BoundingBox.cxx Box.cxx Choice.cxx 
+	Composition.cxx Ensemble.cxx IdField.cxx PosXYZ.cxx 
+	Section.cxx Stack.cxx Units.cxx 
+Removed Files:
+	GDDaxisMPos.cpp GDDboundingBox.cpp GDDbox.cpp GDDchoice.cpp 
+	GDDcomposition.cpp GDDensemble.cpp GDDidField.cpp 
+	GDDposXYZ.cpp GDDsection.cpp GDDstack.cpp GDDunits.cpp 
+Log Message:
+Inserted namespace detModel for the package
+    *
+------------------------------------------------------------
 User: riccardo  Mon Nov  5 05:46:06 PST 2001
 detModel/src/Management
 
