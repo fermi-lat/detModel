@@ -1,5 +1,22 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:22:47 PST 2001
+detModel/detModel/Sections GDDboundable.h GDDboundingBox.h GDDensamble.h GDDposition.h GDDsinglePos.h GDDstackedPos.h GDDunits.h GDDaxisMPos.h GDDaxisPos.h GDDbox.h GDDcomposition.h GDDlogicalOp.h GDDposRPhiZ.h GDDposXYZ.h GDDsection.h GDDseg.h GDDshape.h GDDstack.h GDDvolume.h GDDanyPosition.h GDDanyRelativePosition.h GDDanySinglePosition.h
+
+Modified Files:
+	GDDaxisMPos.h GDDaxisPos.h GDDbox.h GDDcomposition.h 
+	GDDlogicalOp.h GDDposRPhiZ.h GDDposXYZ.h GDDsection.h GDDseg.h 
+	GDDshape.h GDDstack.h GDDvolume.h 
+Added Files:
+	GDDboundable.h GDDboundingBox.h GDDensamble.h GDDposition.h 
+	GDDsinglePos.h GDDstackedPos.h GDDunits.h 
+Removed Files:
+	GDDanyPosition.h GDDanyRelativePosition.h 
+	GDDanySinglePosition.h 
+Log Message:
+First check in of new refactored detModel
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:22:47 PST 2001
 detModel/detModel/Management GDDHTMLConstantsVisitor.h GDDVRMLSectionsVisitor.h GDDconstantsVisitor.h GDDmanager.h GDDprinterConstantsVisitor.h GDDprinterSectionsVisitor.h GDDsectionsVisitor.h GDDvisitor.h
 
 Modified Files:
