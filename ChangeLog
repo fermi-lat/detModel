@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Thu Mar 14 04:30:47 PST 2002
+detModel/detModel
+
+Modified Files:
+	mainpage.h 
+Log Message:
+Small changes to the idMapBuilder to allow transformation retrival from GlastDetSvc
+
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar 13 02:46:19 PST 2002
 detModel/src/Management
 
