@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hansl  Fri Aug  8 11:06:30 PDT 2003
+detModel/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use package_Lshlibflags in requirements
+    *
+------------------------------------------------------------
 User: jrb  Mon Mar 17 09:46:16 PST 2003
 detModel/doc
 
