@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: jrb  Fri Aug 10 18:16:16 PDT 2001
+detModel/src/Management GDDXercesBuilder.cpp
+
+Modified Files:
+	GDDXercesBuilder.cpp 
+Log Message:
+A few more minor fixes to get detModel to compile on Windows 
+(mostly inclusion of std:: as needed)
+
+    *
+------------------------------------------------------------
+User: jrb  Fri Aug 10 18:16:16 PDT 2001
 detModel/src GDD.cpp
 
 Modified Files:
