@@ -1,5 +1,18 @@
 ------------------------------------------------------------
 User: jrb  Fri Aug 10 17:47:26 PDT 2001
+detModel/detModel/Sections GDDanyPosition.h GDDanyRelativePosition.h GDDbox.h GDDchoice.h GDDcomposition.h GDDidField.h GDDlogicalOp.h GDDsection.h GDDseg.h GDDshape.h GDDstack.h GDDvolume.h
+
+Modified Files:
+	GDDanyPosition.h GDDanyRelativePosition.h GDDbox.h GDDchoice.h 
+	GDDcomposition.h GDDidField.h GDDlogicalOp.h GDDsection.h 
+	GDDseg.h GDDshape.h GDDstack.h GDDvolume.h 
+Log Message:
+Add std:: for string,vector,map
+Change #include <vector.h> to #include <vector> and so forth
+
+    *
+------------------------------------------------------------
+User: jrb  Fri Aug 10 17:47:26 PDT 2001
 detModel/detModel/Management GDDHTMLConstantsVisitor.h GDDVRMLSectionsVisitor.h GDDmanager.h
 
 Modified Files:
