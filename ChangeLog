@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Fri Mar 23 10:07:41 PST 2001
+detModel/detModel/Sections GDDanyPosition.h GDDanyRelativePosition.h GDDcomposition.h GDDshape.h GDDvolume.h
+
+Modified Files:
+	GDDanyPosition.h GDDanyRelativePosition.h GDDcomposition.h 
+	GDDshape.h GDDvolume.h 
+Log Message:
+    *
+------------------------------------------------------------
+User: riccardo  Fri Mar 23 10:07:41 PST 2001
 detModel/detModel GDD.h
 
 Modified Files:
