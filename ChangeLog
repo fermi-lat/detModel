@@ -1,5 +1,13 @@
 ------------------------------------------------------------
 User: riccardo  Fri Mar 23 10:07:42 PST 2001
+detModel/src/Management GDDVRMLSectionsVisitor.cpp GDDXercesBuilder.cpp
+
+Modified Files:
+	GDDVRMLSectionsVisitor.cpp GDDXercesBuilder.cpp 
+Log Message:
+    *
+------------------------------------------------------------
+User: riccardo  Fri Mar 23 10:07:42 PST 2001
 detModel/src GDD.cpp main.cxx
 
 Modified Files:
