@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Thu Mar 29 06:54:39 PST 2001
+detModel/detModel/Management GDDXercesBuilder.h GDDbuilder.h GDDmanager.h
+
+Modified Files:
+	GDDXercesBuilder.h GDDbuilder.h GDDmanager.h 
+Log Message:
+Solved problems with Bounding Box, new version of GDDVRMLSectionsVisitor with automatic color scheme
+    *
+------------------------------------------------------------
+User: riccardo  Thu Mar 29 06:54:39 PST 2001
 detModel/detModel GDD.h
 
 Modified Files:
