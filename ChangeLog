@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: riccardo  Fri Oct 19 01:28:25 PDT 2001
+detModel/src/Management GDDFakeBuilder.cpp GDDVRMLSectionsVisitor.cpp
+
+Modified Files:
+	GDDFakeBuilder.cpp GDDVRMLSectionsVisitor.cpp 
+Log Message:
+Some minor changes:
+ - Fixed some problems in GDDfakeBuilder
+ - Use of iterators in the GDDVRMLsectionsVisitor
+    *
+------------------------------------------------------------
+User: riccardo  Fri Oct 19 01:28:25 PDT 2001
 detModel/detModel/Management GDDmanager.h
 
 Modified Files:
