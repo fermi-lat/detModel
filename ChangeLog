@@ -1,4 +1,12 @@
 ------------------------------------------------------------
+User: riccardo  Tue Mar 20 01:29:28 PST 2001
+detModel/src/Constants - New directory
+
+Log Message:
+Directory /nfs/slac/g/glast/ground/cvs/detModel/src/Constants added to the repository
+
+    *
+------------------------------------------------------------
 User: riccardo  Mon Mar 19 07:04:09 PST 2001
 detModel/src/Sections GDDaxisMPos.cpp GDDaxisPos.cpp GDDposXYZ.cpp GDDsection.cpp
 
