@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Mar 20 03:15:25 PST 2001
+detModel/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+Added constants category and modified GDDidField
+    *
+------------------------------------------------------------
 User: riccardo  Tue Mar 20 01:29:28 PST 2001
 detModel/src/Constants - New directory
 
