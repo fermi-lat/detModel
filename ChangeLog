@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Fri Sep 13 16:54:36 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	HtmlConstantsVisitor.cxx 
+Log Message:
+For energies get the "MeV" written out in the constants web page
+
+    *
+------------------------------------------------------------
 User: jrb  Fri Sep 13 16:53:38 PDT 2002
 detModel/src/Constants
 
