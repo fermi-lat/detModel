@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Thu Aug  2 09:08:12 PDT 2001
+detModel/detModel/Constants GDDconstCategory.h GDDconstants.h
+
+Modified Files:
+	GDDconstCategory.h GDDconstants.h 
+Log Message:
+started refactoring - minor changes
+    *
+------------------------------------------------------------
+User: riccardo  Thu Aug  2 09:08:12 PDT 2001
 detModel/detModel mainpage.h
 
 Modified Files:
