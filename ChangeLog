@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Dec 11 09:14:31 PST 2001
+detModel/detModel/Management
+
+Added Files:
+	CountMaterial.h 
+Log Message:
+Added a new class CountMaterial to count the number of volumes that use a material
+    *
+------------------------------------------------------------
 User: riccardo  Tue Dec 11 02:25:39 PST 2001
 detModel/src/Management
 
