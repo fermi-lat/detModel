@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Thu Mar 29 06:59:23 PST 2001
+detModel/src/Sections GDDbox.cpp
+
+Added Files:
+	GDDbox.cpp 
+Log Message:
+Added GDDmatrix
+    *
+------------------------------------------------------------
+User: riccardo  Thu Mar 29 06:59:23 PST 2001
 detModel/src GDDmatrix.cpp
 
 Added Files:
