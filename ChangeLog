@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Nov 29 08:04:27 PST 2001
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+Bux fix in XercesBuilder
+    *
+------------------------------------------------------------
 User: riccardo  Thu Nov 29 07:16:46 PST 2001
 detModel/src/Management
 
