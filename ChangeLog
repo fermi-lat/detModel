@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Mar 22 00:47:58 PST 2001
+detModel/detModel GDD.h
+
+Modified Files:
+	GDD.h 
+Log Message:
+New version of GDDVRMLSectionsVisitor
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar 21 07:44:11 PST 2001
 detModel/src/Management GDDHTMLConstantsVisitor.cpp
 
