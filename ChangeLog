@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Tue Dec 18 02:09:48 PST 2001
+detModel/src/Sections
+
+Modified Files:
+	IdField.cxx 
+Log Message:
+make access methods const
+    *
+------------------------------------------------------------
 User: burnett  Tue Dec 18 02:09:03 PST 2001
 detModel/detModel/Sections
 
