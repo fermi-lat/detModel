@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: riccardo  Tue Apr  9 06:18:30 PDT 2002
+detModel/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Added support for new fineChoice attribute of XML <section> tag
+
+    *
+------------------------------------------------------------
+User: riccardo  Tue Apr  9 06:18:30 PDT 2002
 detModel/detModel/Sections
 
 Modified Files:
