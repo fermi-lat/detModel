@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:22:48 PST 2001
+detModel/src/Management GDDFakeBuilder.cpp GDDHTMLConstantsVisitor.cpp GDDVRMLSectionsVisitor.cpp GDDmanager.cpp GDDprinterConstantsVisitor.cpp GDDprinterSectionsVisitor.cpp
+
+Modified Files:
+	GDDFakeBuilder.cpp GDDHTMLConstantsVisitor.cpp 
+	GDDVRMLSectionsVisitor.cpp GDDmanager.cpp 
+	GDDprinterConstantsVisitor.cpp GDDprinterSectionsVisitor.cpp 
+Log Message:
+First check in of new refactored detModel
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:22:48 PST 2001
 detModel/src/Constants GDDconst.cpp
 
 Modified Files:
