@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:22:48 PST 2001
+detModel/src GDD.cpp
+
+Modified Files:
+	GDD.cpp 
+Log Message:
+First check in of new refactored detModel
+    *
+------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:22:47 PST 2001
 detModel/detModel/Utilities GDDpurge.h
 
