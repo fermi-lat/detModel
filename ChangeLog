@@ -1,4 +1,22 @@
 ------------------------------------------------------------
+User: riccardo  Mon Nov  5 05:46:04 PST 2001
+detModel/detModel/Management
+
+Added Files:
+	Builder.h ConstantsVisitor.h FakeBuilder.h 
+	HtmlConstantsVisitor.h Manager.h PrinterConstantsVisitor.h 
+	PrinterSectionsVisitor.h SectionsVisitor.h Visitor.h 
+	VrmlSectionsVisitor.h XercesBuilder.h 
+Removed Files:
+	GDDFakeBuilder.h GDDHTMLConstantsVisitor.h 
+	GDDVRMLSectionsVisitor.h GDDXercesBuilder.h GDDbuilder.h 
+	GDDconstantsVisitor.h GDDmanager.h 
+	GDDprinterConstantsVisitor.h GDDprinterSectionsVisitor.h 
+	GDDsectionsVisitor.h GDDvisitor.h 
+Log Message:
+Inserted namespace detModel for the package
+    *
+------------------------------------------------------------
 User: riccardo  Mon Nov  5 05:46:03 PST 2001
 detModel/detModel/Constants
 
