@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Oct 23 06:30:36 PDT 2001
+detModel/src GDD.cpp main.cxx
+
+Modified Files:
+	GDD.cpp main.cxx 
+Log Message:
+Added new query functionalities to GDD
+    *
+------------------------------------------------------------
 User: riccardo  Tue Oct 23 06:30:35 PDT 2001
 detModel/detModel/Sections GDDvolume.h
 
