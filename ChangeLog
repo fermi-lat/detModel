@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Dec 12 01:54:58 PST 2001
+detModel/detModel/Sections
+
+Modified Files:
+	Shape.h 
+Log Message:
+Fixed a bug in Shape.h
+    *
+------------------------------------------------------------
 User: riccardo  Tue Dec 11 09:14:32 PST 2001
 detModel/src/Management
 
