@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Fri Jan  4 12:11:44 PST 2002
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+Skip over comments while processing children of <primary> in method
+buildConstants()
+
+    *
+------------------------------------------------------------
 User: burnett  Tue Jan  1 18:25:40 PST 2002
 detModel/src/Management
 
