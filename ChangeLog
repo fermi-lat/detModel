@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Mon Dec  3 08:58:30 PST 2001
+detModel/src/Sections
+
+Added Files:
+	Tube.cxx 
+Log Message:
+Added Tube implementation
+    *
+------------------------------------------------------------
 User: riccardo  Mon Dec  3 07:30:32 PST 2001
 detModel/src/Management
 
