@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: riccardo  Mon Nov  5 05:46:03 PST 2001
+detModel/detModel/Constants
+
+Added Files:
+	Const.h ConstCategory.h Constants.h DoubleConst.h FloatConst.h 
+	IntConst.h StringConst.h 
+Removed Files:
+	GDDconst.h GDDconstCategory.h GDDconstants.h GDDdoubleConst.h 
+	GDDfloatConst.h GDDintConst.h GDDstringConst.h 
+Log Message:
+Inserted namespace detModel for the package
+    *
+------------------------------------------------------------
 User: riccardo  Mon Nov  5 05:46:02 PST 2001
 detModel/detModel
 
