@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Tue Jun  4 15:47:51 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+Finish fixes begun May 29 to pass DOM_.. classes by value
+
+    *
+------------------------------------------------------------
 User: jrb  Thu May 30 14:51:38 PDT 2002
 detModel/detModel/Management
 
