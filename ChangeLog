@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Thu Aug  2 09:08:15 PDT 2001
+detModel/src/Sections GDDbox.cpp GDDcomposition.cpp GDDsection.cpp GDDstack.cpp
+
+Modified Files:
+	GDDbox.cpp GDDcomposition.cpp GDDsection.cpp GDDstack.cpp 
+Log Message:
+started refactoring - minor changes
+    *
+------------------------------------------------------------
+User: riccardo  Thu Aug  2 09:08:15 PDT 2001
 detModel/src/Management GDDFakeBuilder.cpp
 
 Modified Files:
