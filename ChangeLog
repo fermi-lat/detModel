@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Oct  9 01:57:39 PDT 2001
+detModel/cmt cleanup.csh cleanup.sh setup.csh setup.sh
+
+Modified Files:
+	cleanup.csh cleanup.sh setup.csh setup.sh 
+Log Message:
+Added envelope rendering to the VRML visitor
+    *
+------------------------------------------------------------
 User: jrb  Sat Aug 11 16:08:44 PDT 2001
 detModel/cmt requirements
 
