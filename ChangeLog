@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: riccardo  Thu Nov  1 06:38:44 PST 2001
+detModel/src/Management GDDFakeBuilder.cpp GDDVRMLSectionsVisitor.cpp GDDXercesBuilder.cpp GDDprinterSectionsVisitor.cpp
+
+Modified Files:
+	GDDFakeBuilder.cpp GDDVRMLSectionsVisitor.cpp 
+	GDDXercesBuilder.cpp GDDprinterSectionsVisitor.cpp 
+Log Message:
+Removed axisPos, some other minor changes
+    *
+------------------------------------------------------------
+User: riccardo  Thu Nov  1 06:38:44 PST 2001
 detModel/detModel/Utilities GDDcolorCreator.h GDDmatrix.h
 
 Modified Files:
