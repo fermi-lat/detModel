@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Thu Apr 12 00:51:49 PDT 2001
+detModel/src main.cxx
+
+Modified Files:
+	main.cxx 
+Log Message:
+New version for xmlUtil package usage
+    *
+------------------------------------------------------------
+User: riccardo  Thu Apr 12 00:51:49 PDT 2001
 detModel/cmt requirements
 
 Modified Files:
