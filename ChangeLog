@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Wed Mar 21 02:15:43 PST 2001
+detModel/detModel/Constants GDDconst.h GDDconstCategory.h GDDconstants.h
+
+Modified Files:
+	GDDconst.h GDDconstCategory.h GDDconstants.h 
+Log Message:
+Added visitor for constants category
+    *
+------------------------------------------------------------
+User: riccardo  Wed Mar 21 02:15:43 PST 2001
 detModel/detModel GDD.h
 
 Modified Files:
