@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Tue May 28 14:57:01 PDT 2002
+detModel/detModel/Management
+
+Modified Files:
+	HtmlConstantsVisitor.h SectionsVisitor.h 
+Log Message:
+1. Add possibility of specifying output file name for HtmlConstantsVisitor
+2. Add virtual destructor to SectionsVisitor to get rid of gcc compiler warning
+
+    *
+------------------------------------------------------------
 User: jrb  Tue May 28 14:55:11 PDT 2002
 detModel
 
