@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Sun Nov 11 09:23:51 PST 2001
+detModel/detModel/Constants
+
+Modified Files:
+	Const.h DoubleConst.h 
+Log Message:
+New category materials added, lots of minor changes around due to the new category, fixed linefeeds problem, new DAWN visitor added
+    *
+------------------------------------------------------------
 User: riccardo  Sun Nov 11 09:23:50 PST 2001
 detModel/detModel
 
