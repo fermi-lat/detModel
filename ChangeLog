@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Mon Oct 29 08:17:58 PST 2001
+detModel/detModel/Management GDDXercesBuilder.h
+
+Modified Files:
+	GDDXercesBuilder.h 
+Log Message:
+Reinserted XercesBuilder after refactoring
+    *
+------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:42:45 PST 2001
 detModel/src/Sections GDDboundingBox.cpp
 
