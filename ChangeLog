@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Nov 29 01:55:59 PST 2001
+detModel/detModel/Management
+
+Modified Files:
+	PrinterSectionsVisitor.h VrmlSectionsVisitor.h 
+Log Message:
+Some bug fixed
+    *
+------------------------------------------------------------
 User: jrb  Wed Nov 28 16:48:26 PST 2001
 detModel/src/Sections
 
