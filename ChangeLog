@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Fri Feb  2 10:18:33 PST 2001
+detModel/xml flight.xml
+
+Modified Files:
+	flight.xml 
+Log Message:
+Ongoing upgrades to xml description; units support
+    *
+------------------------------------------------------------
 User: jrb  Thu Feb  1 16:38:29 PST 2001
 detModel/xml primextract.xsl
 
