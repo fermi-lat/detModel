@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Tue Dec 11 02:25:39 PST 2001
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+Added support for new detectorType attribute in gdd.dtd
+    *
+------------------------------------------------------------
+User: riccardo  Tue Dec 11 02:25:39 PST 2001
 detModel/detModel/Sections
 
 Modified Files:
