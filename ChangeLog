@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Tue May 28 14:58:42 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	HtmlConstantsVisitor.cxx 
+Log Message:
+Allow caller to specify output file name
+
+    *
+------------------------------------------------------------
 User: jrb  Tue May 28 14:58:05 PDT 2002
 detModel/src
 
