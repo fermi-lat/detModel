@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: riccardo  Fri Oct 19 01:28:24 PDT 2001
+detModel/detModel GDD.h
+
+Modified Files:
+	GDD.h 
+Log Message:
+Some minor changes:
+ - Fixed some problems in GDDfakeBuilder
+ - Use of iterators in the GDDVRMLsectionsVisitor
+    *
+------------------------------------------------------------
 User: burnett  Thu Oct 18 13:35:05 PDT 2001
 detModel/cmt requirements
 
