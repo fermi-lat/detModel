@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Tue Mar 20 08:10:43 PST 2001
+detModel/src GDD.cpp main.cxx
+
+Modified Files:
+	GDD.cpp main.cxx 
+Log Message:
+Minor modifications to GDDmanager and to the visitors pattern
+    *
+------------------------------------------------------------
+User: riccardo  Tue Mar 20 08:10:43 PST 2001
 detModel/detModel/Management GDDmanager.h GDDvisitor.h
 
 Modified Files:
