@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug 10 17:47:27 PDT 2001
+detModel/src main.cxx
+
+Modified Files:
+	main.cxx 
+Log Message:
+Add std:: for string,vector,map
+Change #include <vector.h> to #include <vector> and so forth
+
+    *
+------------------------------------------------------------
 User: jrb  Fri Aug 10 17:47:26 PDT 2001
 detModel/detModel/Sections GDDanyPosition.h GDDanyRelativePosition.h GDDbox.h GDDchoice.h GDDcomposition.h GDDidField.h GDDlogicalOp.h GDDsection.h GDDseg.h GDDshape.h GDDstack.h GDDvolume.h
 
