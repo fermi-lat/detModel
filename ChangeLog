@@ -1,5 +1,19 @@
 ------------------------------------------------------------
 User: riccardo  Tue Mar 20 03:15:26 PST 2001
+detModel/detModel/Constants GDDdoubleConst.h GDDfloatConst.h GDDintConst.h GDDstringConst.h GDDconst.h GDDconstCategory.h GDDconstants.h GDDderCategory.h GDDprim.h GDDprimCategory.h
+
+Modified Files:
+	GDDconst.h GDDconstCategory.h GDDconstants.h 
+Added Files:
+	GDDdoubleConst.h GDDfloatConst.h GDDintConst.h 
+	GDDstringConst.h 
+Removed Files:
+	GDDderCategory.h GDDprim.h GDDprimCategory.h 
+Log Message:
+Added constants category and modified GDDidField
+    *
+------------------------------------------------------------
+User: riccardo  Tue Mar 20 03:15:26 PST 2001
 detModel/detModel GDD.h
 
 Modified Files:
