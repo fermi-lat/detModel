@@ -1,0 +1,27 @@
+------------------------------------------------------------
+User: jrb  Thu Feb  1 16:26:23 PST 2001
+detModel - Imported sources
+
+Log Message:
+Import of package for generic geometry model
+
+Status:
+
+Vendor Tag:	GLAST
+Release Tags:	v1
+		
+N detModel/.cvsignore
+N detModel/cmt/Makefile
+N detModel/cmt/NMake
+N detModel/cmt/setup.csh
+N detModel/cmt/setup.sh
+N detModel/cmt/cleanup.csh
+N detModel/cmt/cleanup.sh
+N detModel/cmt/requirements
+N detModel/xml/gdd.dtd
+N detModel/xml/flight.xml
+N detModel/detModel/mainpage.h
+
+No conflicts created by this import
+
+    *
