@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Apr 12 00:51:49 PDT 2001
+detModel/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+New version for xmlUtil package usage
+    *
+------------------------------------------------------------
 User: riccardo  Thu Mar 29 07:50:07 PST 2001
 detModel/cmt cleanup.csh cleanup.sh setup.csh setup.sh
 
