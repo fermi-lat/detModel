@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Tue Oct 30 04:22:36 PST 2001
+detModel/detModel/Utilities GDDcolor.h
+
+Modified Files:
+	GDDcolor.h 
+Log Message:
+Partial refactoring of XercesBuilder
+    *
+------------------------------------------------------------
+User: riccardo  Tue Oct 30 04:22:36 PST 2001
 detModel/detModel/Management GDDVRMLSectionsVisitor.h
 
 Modified Files:
