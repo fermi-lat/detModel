@@ -1,6 +1,6 @@
 package detModel
-# $Header: /nfs/slac/g/glast/ground/cvs/detModel/cmt/requirements,v 1.22 2002/03/15 18:56:09 burnett Exp $
-version v2r10
+# $Header: /nfs/slac/g/glast/ground/cvs/detModel/cmt/requirements,v 1.23 2002/04/21 02:30:41 burnett Exp $
+version v2r11
 
 use CLHEP
 use xmlUtil
