@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Wed Dec 19 02:48:03 PST 2001
+detModel/detModel/Management
+
+Modified Files:
+	IDmapBuilder.h 
+Log Message:
+add a few consts
+    *
+------------------------------------------------------------
 User: burnett  Tue Dec 18 02:16:33 PST 2001
 detModel/src/Management
 
