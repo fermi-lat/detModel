@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: burnett  Thu Aug 12 18:20:32 PDT 2004
+detModel/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+make rest of requirements file consistent with being a static library; make uses private
+    *
+------------------------------------------------------------
+User: burnett  Thu Aug 12 18:20:32 PDT 2004
 detModel/cmt
 
 Modified Files:
