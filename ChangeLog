@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:22:48 PST 2001
+detModel/src/Sections GDDboundingBox.cpp GDDensamble.cpp GDDunits.cpp GDDaxisMPos.cpp GDDaxisPos.cpp GDDbox.cpp GDDcomposition.cpp GDDposXYZ.cpp GDDsection.cpp GDDstack.cpp
+
+Modified Files:
+	GDDaxisMPos.cpp GDDaxisPos.cpp GDDbox.cpp GDDcomposition.cpp 
+	GDDposXYZ.cpp GDDsection.cpp GDDstack.cpp 
+Added Files:
+	GDDboundingBox.cpp GDDensamble.cpp GDDunits.cpp 
+Log Message:
+First check in of new refactored detModel
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:22:48 PST 2001
 detModel/src/Management GDDFakeBuilder.cpp GDDHTMLConstantsVisitor.cpp GDDVRMLSectionsVisitor.cpp GDDmanager.cpp GDDprinterConstantsVisitor.cpp GDDprinterSectionsVisitor.cpp
 
 Modified Files:
