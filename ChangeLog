@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: riccardo  Tue Oct 30 02:15:13 PST 2001
+detModel/src GDD.cpp
+
+Modified Files:
+	GDD.cpp 
+Log Message:
+Fixed the name of GDDensamble in GDDensemble, added a new
+mechanism for color generation
+    *
+------------------------------------------------------------
+User: riccardo  Tue Oct 30 02:15:13 PST 2001
 detModel/detModel/Sections GDDensemble.h GDDaxisMPos.h GDDaxisPos.h GDDcomposition.h GDDlogicalOp.h GDDstack.h GDDstackedPos.h GDDensamble.h
 
 Modified Files:
