@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:22:48 PST 2001
+detModel/src/Constants GDDconst.cpp
+
+Modified Files:
+	GDDconst.cpp 
+Log Message:
+First check in of new refactored detModel
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:22:48 PST 2001
 detModel/src GDD.cpp
 
 Modified Files:
