@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Sat Aug 11 16:08:44 PDT 2001
+detModel/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+Change version dependencies for xml, xmlUtil back to what is
+actually required
+
+    *
+------------------------------------------------------------
 User: jrb  Fri Aug 10 18:16:16 PDT 2001
 detModel/src/Utilities GDDmatrix.cpp
 
