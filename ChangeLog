@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Tue Oct 30 10:40:24 PST 2001
+detModel/src main.cxx
+
+Modified Files:
+	main.cxx 
+Log Message:
+1. Fiddle with opacities a bit
+2. setMode to just "digi"
+
+    *
+------------------------------------------------------------
 User: riccardo  Tue Oct 30 10:03:33 PST 2001
 detModel/detModel/Sections GDDsinglePos.h
 
