@@ -1,9 +1,10 @@
 package detModel
-# $Header: /nfs/slac/g/glast/ground/cvs/detModel/cmt/requirements,v 1.17 2001/11/26 18:05:16 jrb Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/detModel/cmt/requirements,v 1.18 2001/12/07 12:53:39 riccardo Exp $
 version v3
 
 use CLHEP
 use xmlUtil
+use idents
 
 include_dirs "${DETMODELROOT}"
 
