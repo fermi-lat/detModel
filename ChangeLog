@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug 10 17:47:26 PDT 2001
+detModel/detModel/Constants GDDconst.h GDDconstCategory.h GDDconstants.h GDDstringConst.h
+
+Modified Files:
+	GDDconst.h GDDconstCategory.h GDDconstants.h GDDstringConst.h 
+Log Message:
+Add std:: for string,vector,map
+Change #include <vector.h> to #include <vector> and so forth
+
+    *
+------------------------------------------------------------
 User: jrb  Fri Aug 10 17:47:25 PDT 2001
 detModel/detModel GDD.h
 
