@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Feb 25 15:58:50 PST 2004
+detModel/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Require specifically v2r* of xmlUtil (was just v*)
+
+    *
+------------------------------------------------------------
 User: jrb  Thu Feb 19 14:44:53 PST 2004
 detModel/doc
 
