@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Aug  2 09:08:15 PDT 2001
+detModel/src/Management GDDFakeBuilder.cpp
+
+Modified Files:
+	GDDFakeBuilder.cpp 
+Log Message:
+started refactoring - minor changes
+    *
+------------------------------------------------------------
 User: riccardo  Thu Aug  2 09:08:14 PDT 2001
 detModel/src GDD.cpp main.cxx
 
