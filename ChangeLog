@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Mon Nov  5 05:46:02 PST 2001
+detModel/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Inserted namespace detModel for the package
+    *
+------------------------------------------------------------
 User: riccardo  Thu Nov  1 06:38:44 PST 2001
 detModel/src/Utilities GDDcolorCreator.cpp GDDmatrix.cpp
 
