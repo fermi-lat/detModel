@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Jan 28 10:38:42 PST 2004
+detModel/detModel/Management
+
+Modified Files:
+	XercesBuilder.h 
+Log Message:
+Change argument type from DOM_Node to DOM_Element in several methods
+
+    *
+------------------------------------------------------------
 User: jrb  Thu Oct  2 02:16:07 PDT 2003
 detModel/doc
 
