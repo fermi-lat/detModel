@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: riccardo  Tue Dec 11 09:14:32 PST 2001
+detModel/src/Management
+
+Modified Files:
+	VrmlSectionsVisitor.cxx 
+Added Files:
+	CountMaterial.cxx 
+Log Message:
+Added a new class CountMaterial to count the number of volumes that use a material
+    *
+------------------------------------------------------------
+User: riccardo  Tue Dec 11 09:14:32 PST 2001
 detModel/src
 
 Modified Files:
