@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Tue Feb 13 17:23:14 PST 2001
+detModel/xml flight.xml
+
+Modified Files:
+	flight.xml 
+Log Message:
+Do vacuum material definition properly this time.
+
+    *
+------------------------------------------------------------
 User: jrb  Tue Feb 13 17:11:04 PST 2001
 detModel/xml flight.xml gdd.dtd
 
