@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: riccardo  Tue Oct 30 02:15:14 PST 2001
+detModel/src/Management GDDFakeBuilder.cpp GDDVRMLSectionsVisitor.cpp GDDprinterSectionsVisitor.cpp
+
+Modified Files:
+	GDDFakeBuilder.cpp GDDVRMLSectionsVisitor.cpp 
+	GDDprinterSectionsVisitor.cpp 
+Log Message:
+Fixed the name of GDDensamble in GDDensemble, added a new
+mechanism for color generation
+    *
+------------------------------------------------------------
 User: riccardo  Tue Oct 30 02:15:13 PST 2001
 detModel/src GDD.cpp
 
