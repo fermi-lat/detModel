@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: jrb  Fri Mar  9 10:21:22 PST 2001
+detModel/xml flight.xml gdd.dtd
+
+Modified Files:
+	flight.xml gdd.dtd 
+Log Message:
+1. ACD description nearly complete in flight.xml
+2. Add and use materialREF attribute to simple solids so that 
+   xml::Substitute class will look up references.
+
+    *
+------------------------------------------------------------
 User: jrb  Thu Mar  1 16:26:31 PST 2001
 detModel/xml flight.xml
 
