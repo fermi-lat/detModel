@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Feb  1 16:38:29 PST 2001
+detModel/xml primextract.xsl
+
+Added Files:
+	primextract.xsl 
+Log Message:
+Transformation to extract primary constants from .xml
+    *
+------------------------------------------------------------
 User: jrb  Thu Feb  1 16:26:23 PST 2001
 detModel - Imported sources
 
