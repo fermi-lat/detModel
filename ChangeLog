@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: jrb  Tue Oct  9 09:37:52 PDT 2001
+detModel/cmt .cvsignore cleanup.csh cleanup.sh setup.csh setup.sh
+
+Added Files:
+	.cvsignore 
+Removed Files:
+	cleanup.csh cleanup.sh setup.csh setup.sh 
+Log Message:
+Take setup & cleanup files out of HEAD; they should be built locally
+
+    *
+------------------------------------------------------------
 User: riccardo  Tue Oct  9 01:57:40 PDT 2001
 detModel/src/Sections GDDaxisPos.cpp GDDstack.cpp
 
