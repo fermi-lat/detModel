@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Fri Nov 23 06:49:45 PST 2001
+detModel/src
+
+Modified Files:
+	Gdd.cxx main.cxx 
+Log Message:
+Changed the functioning Choice classes
+    *
+------------------------------------------------------------
+User: riccardo  Fri Nov 23 06:49:45 PST 2001
 detModel/detModel/Sections
 
 Modified Files:
