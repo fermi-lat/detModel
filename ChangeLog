@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Mon Oct 29 08:17:59 PST 2001
+detModel/detModel/Sections GDDaxisMPos.h GDDaxisPos.h GDDstackedPos.h
+
+Modified Files:
+	GDDaxisMPos.h GDDaxisPos.h GDDstackedPos.h 
+Log Message:
+Reinserted XercesBuilder after refactoring
+    *
+------------------------------------------------------------
 User: riccardo  Mon Oct 29 08:17:58 PST 2001
 detModel/detModel/Management GDDXercesBuilder.h
 
