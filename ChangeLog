@@ -1,4 +1,23 @@
 ------------------------------------------------------------
+User: jrb  Wed Feb 20 15:28:33 PST 2002
+detModel/detModel/Management
+
+Modified Files:
+	CountMaterial.h DawnSectionsVisitor.h IDmapBuilder.h 
+	PrinterMaterialsVisitor.h SectionsVisitor.h 
+	VrmlSectionsVisitor.h 
+Log Message:
+Changes to build (non-component) dll/shareable rather than static library.
+Code changes involve replacing getPointer() calls with other means of 
+getting the manager or gdd pointer where appropriate, in particular in
+all visitor code.  
+The sections visitor interface has also been changed to handle choice
+mode (rather than leaving it to the Manager).
+
+
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Feb 20 15:28:32 PST 2002
 detModel/cmt
 
