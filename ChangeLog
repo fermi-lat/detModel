@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Nov 28 10:40:32 PST 2001
+detModel/detModel/Management
+
+Modified Files:
+	XercesBuilder.h 
+Log Message:
+Add data member to keep track of parser instance
+
+    *
+------------------------------------------------------------
 User: jrb  Tue Nov 27 16:30:38 PST 2001
 detModel/src/Management
 
