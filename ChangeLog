@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Sun Dec 16 05:36:49 PST 2001
+detModel/detModel/Management
+
+Modified Files:
+	IDmapBuilder.h 
+Log Message:
+Start to use idents::VolumeIdentifier in IDmapBuilder class
+    *
+------------------------------------------------------------
+User: riccardo  Sun Dec 16 05:36:49 PST 2001
 detModel/cmt
 
 Modified Files:
