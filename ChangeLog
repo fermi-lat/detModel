@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Aug  2 09:18:29 PDT 2001
+detModel/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+Added utilities package
+    *
+------------------------------------------------------------
 User: riccardo  Thu Aug  2 09:11:09 PDT 2001
 detModel/src/Utilities GDDmatrix.cpp
 
