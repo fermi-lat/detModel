@@ -3,6 +3,14 @@ TAG activity
 User: riccardo  Mon May 28 07:15:06 2001
 Tag name: v2
 Tag operation: add
+Repository: /nfs/slac/g/glast/ground/cvs/detModel/detModel/Constants
+File(s) and revision(s): GDDconst.h
+    *
+------------------------------------------------------------
+TAG activity
+User: riccardo  Mon May 28 07:15:06 2001
+Tag name: v2
+Tag operation: add
 Repository: /nfs/slac/g/glast/ground/cvs/detModel/detModel
 File(s) and revision(s): GDD.h
     *
