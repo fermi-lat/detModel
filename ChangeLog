@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Thu Oct 18 08:12:02 PDT 2001
+detModel/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+forgot GDD
+    *
+------------------------------------------------------------
 User: burnett  Thu Oct 18 07:15:16 PDT 2001
 detModel/src/Management GDDVRMLSectionsVisitor.cpp GDDXercesBuilder.cpp
 
