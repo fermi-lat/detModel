@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Fri Mar 23 00:26:35 PST 2001
+detModel/detModel GDD.h
+
+Modified Files:
+	GDD.h 
+Log Message:
+Added temporary automatic color scheme for VRML
+    *
+------------------------------------------------------------
 User: riccardo  Thu Mar 22 00:47:59 PST 2001
 detModel/src/Management GDDVRMLSectionsVisitor.cpp
 
