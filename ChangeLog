@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: jrb  Wed May 29 15:27:06 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+1. Pass DOM_Node, DOM_Element by value as recommended by Xerces folk,
+   by the way eliminating many gcc warnings
+2. Squeeze source into 80 columns
+
+    *
+------------------------------------------------------------
 User: jrb  Wed May 29 15:26:02 PDT 2002
 detModel/detModel/Management
 
