@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: riccardo  Mon Mar 11 09:20:30 PST 2002
+detModel/detModel
+
+Modified Files:
+	mainpage.h 
+Log Message:
+New Shape and XercesBuilder to support sensitive flag as false, posHit or intHit (as opposed
+to boolean flag)
+
+    *
+------------------------------------------------------------
 User: riccardo  Mon Mar 11 09:20:28 PST 2002
 detModel/cmt
 
