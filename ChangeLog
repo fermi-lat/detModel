@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Sun Mar 16 21:53:57 PST 2003
+detModel
+
+Modified Files:
+	.cvsignore 
+Log Message:
+Ignore new-style Linux binary directories
+
+    *
+------------------------------------------------------------
 User: als  Thu Jan  9 18:59:36 PST 2003
 detModel/cmt
 
