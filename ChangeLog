@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Feb 25 15:59:15 PST 2004
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+Make use of restored ability to fetch gdd DTDversion and CVSid
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Feb 25 15:58:50 PST 2004
 detModel/cmt
 
