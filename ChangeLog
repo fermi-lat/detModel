@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Oct 30 10:03:33 PST 2001
+detModel/detModel/Sections GDDsinglePos.h
+
+Modified Files:
+	GDDsinglePos.h 
+Log Message:
+Solved a bug in GDDposXYZ
+    *
+------------------------------------------------------------
 User: riccardo  Tue Oct 30 09:56:43 PST 2001
 detModel/detModel/Sections GDDsinglePos.h
 
