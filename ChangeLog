@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Mon Dec  3 07:30:32 PST 2001
+detModel/detModel/Sections
+
+Modified Files:
+	Box.h Tube.h 
+Log Message:
+Added Tube
+    *
+------------------------------------------------------------
+User: riccardo  Mon Dec  3 07:30:32 PST 2001
 detModel/detModel/Management
 
 Modified Files:
