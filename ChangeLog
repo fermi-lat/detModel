@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar 21 07:44:11 PST 2001
+detModel/src/Management GDDHTMLConstantsVisitor.cpp
+
+Modified Files:
+	GDDHTMLConstantsVisitor.cpp 
+Log Message:
+Solved a minor problem with GDDHTMLConstantsVisitor
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar 21 04:58:28 PST 2001
 detModel/src/Management GDDHTMLConstantsVisitor.cpp GDDVRMLSectionsVisitor.cpp
 
