@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Oct 18 01:04:57 PDT 2001
+detModel/src main.cxx
+
+Modified Files:
+	main.cxx 
+Log Message:
+Added some comments to the main.cxx test file
+    *
+------------------------------------------------------------
 User: riccardo  Thu Oct 18 00:52:12 PDT 2001
 detModel/src/Management GDDVRMLSectionsVisitor.cpp
 
