@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Jan 28 10:39:18 PST 2004
+detModel/detModel/Sections
+
+Modified Files:
+	IdField.h 
+Log Message:
+"step" and "value" are really ints, not doubles
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Jan 28 10:38:42 PST 2004
 detModel/detModel/Management
 
