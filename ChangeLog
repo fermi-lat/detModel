@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Sun Dec 16 05:36:49 PST 2001
+detModel/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Start to use idents::VolumeIdentifier in IDmapBuilder class
+    *
+------------------------------------------------------------
 User: riccardo  Wed Dec 12 01:54:58 PST 2001
 detModel/detModel/Sections
 
