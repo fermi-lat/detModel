@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: riccardo  Fri Dec  7 04:53:40 PST 2001
+detModel/detModel/Utilities
+
+Modified Files:
+	Global.h Vector.h 
+Added Files:
+	PositionedVolume.h 
+Log Message:
+Added new classes: PositionedVolume and IDmapBuilder to manage volumes ID association to physical positioned volume. detModel is starting to use also CLHEP (new requirements file). Some minor bugs and comments added.
+    *
+------------------------------------------------------------
+User: riccardo  Fri Dec  7 04:53:40 PST 2001
 detModel/detModel/Sections
 
 Modified Files:
