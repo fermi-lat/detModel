@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: jrb  Wed Feb 21 17:49:30 PST 2001
+detModel/xml flight.xml
+
+Modified Files:
+	flight.xml 
+Log Message:
+add a couple more nearly-real numbers to flight.xml
+    *
+------------------------------------------------------------
+User: jrb  Wed Feb 21 17:49:30 PST 2001
 detModel/cmt requirements
 
 Modified Files:
