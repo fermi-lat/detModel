@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: jrb  Wed Oct  1 04:36:50 PDT 2003
+detModel/detModel
+
+Modified Files:
+	Gdd.h 
+Log Message:
+1. Many small changes so detModel will parse id dictionary segment of 
+   geometry, making id field name translation available.
+2. Small bug fix to test program main.cxx
+
+    *
+------------------------------------------------------------
 User: hansl  Mon Aug 11 17:49:38 PDT 2003
 detModel/cmt
 
