@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Thu Mar 29 06:54:40 PST 2001
+detModel/src GDD.cpp main.cxx
+
+Modified Files:
+	GDD.cpp main.cxx 
+Log Message:
+Solved problems with Bounding Box, new version of GDDVRMLSectionsVisitor with automatic color scheme
+    *
+------------------------------------------------------------
+User: riccardo  Thu Mar 29 06:54:40 PST 2001
 detModel/detModel/Sections GDDanyPosition.h GDDanyRelativePosition.h GDDaxisMPos.h GDDaxisPos.h GDDbox.h GDDcomposition.h GDDshape.h GDDstack.h GDDvolume.h
 
 Modified Files:
