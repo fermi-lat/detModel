@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Wed Oct 31 02:55:26 PST 2001
+detModel/detModel/Sections GDDaxisMPos.h GDDcomposition.h GDDensemble.h GDDposRPhiZ.h GDDstack.h GDDstackedPos.h
+
+Modified Files:
+	GDDaxisMPos.h GDDcomposition.h GDDensemble.h GDDposRPhiZ.h 
+	GDDstack.h GDDstackedPos.h 
+Log Message:
+Added template method to ensemble to check positions added, refitted GDDprinterSectionsVisitor, started to delete GDDaxisPos from the package
+    *
+------------------------------------------------------------
 User: jrb  Tue Oct 30 10:40:24 PST 2001
 detModel/src main.cxx
 
