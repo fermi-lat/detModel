@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Mar 20 03:15:27 PST 2001
+detModel/src GDD.cpp main.cxx
+
+Modified Files:
+	GDD.cpp main.cxx 
+Log Message:
+Added constants category and modified GDDidField
+    *
+------------------------------------------------------------
 User: riccardo  Tue Mar 20 03:15:26 PST 2001
 detModel/detModel/Sections GDDidField.h
 
