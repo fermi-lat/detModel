@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Jul 18 00:58:58 PDT 2001
+detModel/src/Management GDDVRMLSectionsVisitor.cpp
+
+Modified Files:
+	GDDVRMLSectionsVisitor.cpp 
+Log Message:
+Added three orthographics cameras
+    *
+------------------------------------------------------------
 User: riccardo  Wed Jul 18 00:58:14 PDT 2001
 detModel/detModel/Management GDDVRMLSectionsVisitor.h
 
