@@ -446,9 +446,9 @@
 <!-- Pre-processing programs should add a <source> element to the output. 
      Normally, inputId should be the value of the  CVSid attribute of
      the <gdd> element of the input file (which, in turn, should be
-     the evaluation of the CVS macro $Id$ for that file) but without
+     the evaluation of the CVS macro $Id: gdd.dtd,v 1.6 2001/03/01 20:05:42 jrb Exp $ for that file) but without
      the surrounding "$" and creatorId should be the translation of the 
-     CVS macro $Id$ for the pre-processing program, also without the
+     CVS macro $Id: gdd.dtd,v 1.6 2001/03/01 20:05:42 jrb Exp $ for the pre-processing program, also without the
      "$", but other information could be used instead for less formal 
      circumstances. (Note surrounding "$" should be omitted so that further
      check-ins to CVS will not cause substitutions).
@@ -494,7 +494,8 @@
 <!-- change material attribute from IDREF to NMTOKEN -->
 <!--  As of Jan 17, change it back! -->
 <!ENTITY % solidProperties '%volumeProperties;
-                             material    IDREF            #REQUIRED
+                             materialREF  IDREF            #IMPLIED
+                             material     NMTOKEN          "Vacuum"
                              sensitive   ( true | false ) "false"'>
 
 <!ELEMENT  box    (seg?) >
@@ -816,13 +817,16 @@
                 uType (length | angle | count | mat | none) "length"
                %units; >
 
+<!-- "save" attribute can be used by transforming programs to determine
+     which derived constants may be of independent interest.      --> 
 <!ELEMENT derived (derCategory*) >
 <!ELEMENT derCategory (overview,const*) >
-<!ATTLIST derCategory name ID #REQUIRED>
+<!ATTLIST derCategory name ID #REQUIRED
+          save        (true | false) "false" >
 
 <!ENTITY  % operator "mul | quo | add | minus | uminus | max" >
 
-<!ELEMENT const ((%operator;)? ) >
+<!ELEMENT const (refer | (%operator;)? ) >
 <!ATTLIST const name ID #IMPLIED
                 value NMTOKEN #IMPLIED
                 uType (length | angle | count | none) "length"
