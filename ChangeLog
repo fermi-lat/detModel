@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Feb 28 11:10:11 PST 2002
+detModel/detModel
+
+Modified Files:
+	mainpage.h 
+Log Message:
+Added doc directory and release.notes file to the package
+    *
+------------------------------------------------------------
 User: riccardo  Thu Feb 28 11:09:35 PST 2002
 detModel/doc
 
