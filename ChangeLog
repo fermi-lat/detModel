@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Thu May 30 13:52:28 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	HtmlConstantsVisitor.cxx 
+Log Message:
+Write input filename and current time, date at bottom of html output
+
+    *
+------------------------------------------------------------
 User: jrb  Wed May 29 15:27:06 PDT 2002
 detModel/src/Management
 
