@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Tue Jul 23 14:07:37 PDT 2002
+detModel/src
+
+Modified Files:
+	main.cxx 
+Log Message:
+Modified test program to test new stuff.  Didn't mean to commit it; I'll
+put the old one back.
+
+    *
+------------------------------------------------------------
 User: jrb  Tue Jul 23 14:06:38 PDT 2002
 detModel/detModel/Management
 
