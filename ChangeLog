@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 08:17:59 PST 2001
+detModel/src main.cxx
+
+Modified Files:
+	main.cxx 
+Log Message:
+Reinserted XercesBuilder after refactoring
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 08:17:59 PST 2001
 detModel/detModel/Sections GDDaxisMPos.h GDDaxisPos.h GDDstackedPos.h
 
 Modified Files:
