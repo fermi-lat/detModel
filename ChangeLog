@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Tue Mar 20 03:15:26 PST 2001
+detModel/detModel/Sections GDDidField.h
+
+Modified Files:
+	GDDidField.h 
+Log Message:
+Added constants category and modified GDDidField
+    *
+------------------------------------------------------------
+User: riccardo  Tue Mar 20 03:15:26 PST 2001
 detModel/detModel/Management GDDVRMLSectionsVisitor.h GDDXercesBuilder.h GDDmanager.h
 
 Modified Files:
