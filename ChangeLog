@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Fri Nov 30 05:34:23 PST 2001
+detModel/detModel/Management
+
+Modified Files:
+	Builder.h Manager.h XercesBuilder.h 
+Log Message:
+Get rid of char* in Manager and Builder; now they're using std::string
+    *
+------------------------------------------------------------
 User: riccardo  Thu Nov 29 08:04:27 PST 2001
 detModel/src/Management
 
