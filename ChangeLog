@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Mon Dec  3 07:30:32 PST 2001
+detModel/detModel/Management
+
+Modified Files:
+	DawnSectionsVisitor.h PrinterSectionsVisitor.h 
+	SectionsVisitor.h VrmlSectionsVisitor.h XercesBuilder.h 
+Log Message:
+Added Tube
+    *
+------------------------------------------------------------
 User: burnett  Fri Nov 30 07:19:01 PST 2001
 detModel/src/Management
 
