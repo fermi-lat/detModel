@@ -1,4 +1,19 @@
 ------------------------------------------------------------
+User: riccardo  Mon Nov  5 05:46:06 PST 2001
+detModel/src/Management
+
+Added Files:
+	FakeBuilder.cxx HtmlConstantsVisitor.cxx Manager.cxx 
+	PrinterConstantsVisitor.cxx PrinterSectionsVisitor.cxx 
+	VrmlSectionsVisitor.cxx XercesBuilder.cxx 
+Removed Files:
+	GDDFakeBuilder.cpp GDDHTMLConstantsVisitor.cpp 
+	GDDVRMLSectionsVisitor.cpp GDDXercesBuilder.cpp GDDmanager.cpp 
+	GDDprinterConstantsVisitor.cpp GDDprinterSectionsVisitor.cpp 
+Log Message:
+Inserted namespace detModel for the package
+    *
+------------------------------------------------------------
 User: riccardo  Mon Nov  5 05:46:05 PST 2001
 detModel/src/Constants
 
