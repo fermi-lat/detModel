@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Tue Mar 20 03:15:27 PST 2001
+detModel/src/Sections GDDcomposition.cpp GDDidField.cpp GDDsection.cpp
+
+Modified Files:
+	GDDcomposition.cpp GDDidField.cpp GDDsection.cpp 
+Log Message:
+Added constants category and modified GDDidField
+    *
+------------------------------------------------------------
+User: riccardo  Tue Mar 20 03:15:27 PST 2001
 detModel/src/Management GDDVRMLSectionsVisitor.cpp GDDXercesBuilder.cpp GDDmanager.cpp
 
 Modified Files:
