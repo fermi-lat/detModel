@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: riccardo  Fri Nov 23 00:05:44 PST 2001
+detModel/detModel/Utilities
+
+Added Files:
+	Vector.h 
+Removed Files:
+	Matrix.h 
+Log Message:
+Removed Matrix and added new Vector class
+    *
+------------------------------------------------------------
+User: riccardo  Fri Nov 23 00:05:44 PST 2001
 detModel/detModel/Materials
 
 Modified Files:
