@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: jrb  Thu Nov  8 15:21:48 PST 2001
+detModel/src/Sections
+
+Modified Files:
+	BoundingBox.cxx 
+Log Message:
+A couple small changes to get rid of Windows compilation errors
+
+    *
+------------------------------------------------------------
+User: jrb  Thu Nov  8 15:21:48 PST 2001
 detModel/src
 
 Modified Files:
