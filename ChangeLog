@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Tue Jul 23 14:06:38 PDT 2002
+detModel/detModel/Management
+
+Modified Files:
+	IDmapBuilder.h Manager.h 
+Log Message:
+IDmapBuilder.h:  Add several services to better handle non-root top volume
+Manager.h:       Add new getNumericConstantByName  specific to int constant
+
+    *
+------------------------------------------------------------
 User: jrb  Mon Jun 10 10:44:59 PDT 2002
 detModel/doc
 
