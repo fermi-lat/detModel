@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Thu Feb  8 16:11:52 PST 2001
+detModel/xml flight.xml gdd.dtd primextract.xsl
+
+Modified Files:
+	flight.xml gdd.dtd primextract.xsl 
+Log Message:
+Add new "overview" element to dtd; modify flight.xml to use it
+and primextract.xsl to extract it into html documentation of constants.
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Feb  7 12:16:48 PST 2001
 detModel/xml primextract.xsl
 
