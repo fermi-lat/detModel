@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Oct 23 06:30:35 PDT 2001
+detModel/detModel GDD.h
+
+Modified Files:
+	GDD.h 
+Log Message:
+Added new query functionalities to GDD
+    *
+------------------------------------------------------------
 User: riccardo  Fri Oct 19 02:10:20 PDT 2001
 detModel/src/Management GDDVRMLSectionsVisitor.cpp GDDXercesBuilder.cpp
 
