@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Mon May 28 06:54:09 PDT 2001
+detModel/detModel/Sections GDDanyPosition.h GDDanyRelativePosition.h
+
+Modified Files:
+	GDDanyPosition.h GDDanyRelativePosition.h 
+Log Message:
+Some minor changes to comply to the new Gaudi version
+    *
+------------------------------------------------------------
+User: riccardo  Mon May 28 06:54:09 PDT 2001
 detModel/cmt requirements
 
 Modified Files:
