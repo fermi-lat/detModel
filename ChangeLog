@@ -1,4 +1,12 @@
 ------------------------------------------------------------
+TAG activity
+User: riccardo  Thu Mar 29 06:57:49 2001
+Tag name: v1r2
+Tag operation: add
+Repository: /nfs/slac/g/glast/ground/cvs/detModel
+File(s) and revision(s): .cvsignore
+    *
+------------------------------------------------------------
 User: riccardo  Thu Mar 29 06:54:40 PST 2001
 detModel/src/Sections GDDaxisMPos.cpp GDDaxisPos.cpp GDDcomposition.cpp GDDstack.cpp
 
