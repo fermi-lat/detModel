@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: jrb  Fri Aug 10 18:16:15 PDT 2001
+detModel/detModel/Sections GDDanyPosition.h
+
+Modified Files:
+	GDDanyPosition.h 
+Log Message:
+A few more minor fixes to get detModel to compile on Windows 
+(mostly inclusion of std:: as needed)
+
+    *
+------------------------------------------------------------
+User: jrb  Fri Aug 10 18:16:15 PDT 2001
 detModel/detModel/Constants GDDconstCategory.h
 
 Modified Files:
