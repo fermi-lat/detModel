@@ -1,5 +1,19 @@
 ------------------------------------------------------------
 User: riccardo  Tue Oct 30 02:15:14 PST 2001
+detModel/src/Sections GDDensemble.cpp GDDaxisMPos.cpp GDDaxisPos.cpp GDDsection.cpp GDDensamble.cpp
+
+Modified Files:
+	GDDaxisMPos.cpp GDDaxisPos.cpp GDDsection.cpp 
+Added Files:
+	GDDensemble.cpp 
+Removed Files:
+	GDDensamble.cpp 
+Log Message:
+Fixed the name of GDDensamble in GDDensemble, added a new
+mechanism for color generation
+    *
+------------------------------------------------------------
+User: riccardo  Tue Oct 30 02:15:14 PST 2001
 detModel/src/Management GDDFakeBuilder.cpp GDDVRMLSectionsVisitor.cpp GDDprinterSectionsVisitor.cpp
 
 Modified Files:
