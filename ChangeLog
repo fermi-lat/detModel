@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Mar  1 16:26:31 PST 2001
+detModel/xml flight.xml
+
+Modified Files:
+	flight.xml 
+Log Message:
+Added constants for ACD
+    *
+------------------------------------------------------------
 User: jrb  Thu Mar  1 12:05:43 PST 2001
 detModel/xml flight.xml gdd.dtd
 
