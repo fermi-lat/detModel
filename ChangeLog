@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Mon May 27 01:46:08 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	HtmlConstantsVisitor.cxx 
+Log Message:
+Added an index to the html produced by HTMLConstantsVisitor class.
+
+    *
+------------------------------------------------------------
 User: burnett  Sun May 26 09:25:36 PDT 2002
 detModel/doc
 
