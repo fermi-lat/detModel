@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Oct 18 00:52:11 PDT 2001
+detModel/src main.cxx
+
+Modified Files:
+	main.cxx 
+Log Message:
+New GDDVRMLvisitor; fixed some problems when no mother volume is specified
+    *
+------------------------------------------------------------
 User: jrb  Tue Oct  9 09:37:52 PDT 2001
 detModel/cmt .cvsignore cleanup.csh cleanup.sh setup.csh setup.sh
 
