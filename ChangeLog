@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Aug  2 09:11:06 PDT 2001
+detModel/detModel GDDmatrix.h GDDpurge.h
+
+Removed Files:
+	GDDmatrix.h GDDpurge.h 
+Log Message:
+started refactoring - minor changes
+    *
+------------------------------------------------------------
 User: riccardo  Thu Aug  2 09:10:35 PDT 2001
 detModel/detModel/Utilities - New directory
 
