@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Tue Oct 30 04:22:36 PST 2001
+detModel/detModel/Management GDDVRMLSectionsVisitor.h
+
+Modified Files:
+	GDDVRMLSectionsVisitor.h 
+Log Message:
+Partial refactoring of XercesBuilder
+    *
+------------------------------------------------------------
 User: riccardo  Tue Oct 30 02:18:48 PST 2001
 detModel/src/Utilities GDDcolorCreator.cpp
 
