@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Mon Jan  3 11:26:20 PST 2005
+detModel/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Use xmlBase package rather than xml
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Nov 10 16:41:47 PST 2004
 detModel/doc
 
