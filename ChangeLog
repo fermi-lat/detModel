@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Nov  1 06:38:44 PST 2001
+detModel/detModel/Utilities GDDcolorCreator.h GDDmatrix.h
+
+Modified Files:
+	GDDcolorCreator.h GDDmatrix.h 
+Log Message:
+Removed axisPos, some other minor changes
+    *
+------------------------------------------------------------
 User: riccardo  Thu Nov  1 06:38:43 PST 2001
 detModel/detModel/Sections GDDaxisPos.h
 
