@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Sun Dec 16 07:27:33 PST 2001
+detModel/src
+
+Modified Files:
+	main.cxx 
+Log Message:
+Some changes in IDmapBuilder and CountMaterial
+    *
+------------------------------------------------------------
+User: riccardo  Sun Dec 16 07:27:33 PST 2001
 detModel/detModel/Management
 
 Modified Files:
