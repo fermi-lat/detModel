@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar 21 04:58:27 PST 2001
+detModel/detModel/Management GDDHTMLConstantsVisitor.h
+
+Added Files:
+	GDDHTMLConstantsVisitor.h 
+Log Message:
+Added the GDDHTMLConstantsVisitor and added some comments in the main
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar 21 02:17:54 PST 2001
 detModel/detModel/Management GDDprinterConstantsVisitor.h
 
