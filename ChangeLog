@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Tue May 28 14:55:11 PDT 2002
+detModel
+
+Modified Files:
+	.cvsignore 
+Log Message:
+Add Linux-i686* to list of things to ignore
+
+    *
+------------------------------------------------------------
 User: riccardo  Mon May 27 01:46:08 PDT 2002
 detModel/src/Management
 
