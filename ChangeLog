@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Tue Dec 18 02:09:03 PST 2001
+detModel/detModel/Sections
+
+Modified Files:
+	IdField.h Volume.h 
+Log Message:
+make access methods const
+    *
+------------------------------------------------------------
 User: riccardo  Sun Dec 16 07:27:33 PST 2001
 detModel/src/Management
 
