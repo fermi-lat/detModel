@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar 21 01:06:25 PST 2001
+detModel/src GDD.cpp
+
+Modified Files:
+	GDD.cpp 
+Log Message:
+Added new constants maps to GDD
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar 21 01:06:04 PST 2001
 detModel/detModel GDD.h
 
