@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Mon Apr  8 03:16:06 PDT 2002
+detModel/src/Management
+
+Modified Files:
+	IDmapBuilder.cxx 
+Log Message:
+Tentative correction of a rotation bug
+
+    *
+------------------------------------------------------------
 User: riccardo  Mon Apr  8 03:16:04 PDT 2002
 detModel/src
 
