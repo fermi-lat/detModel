@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Nov 10 11:48:54 PST 2004
+detModel/detModel/Management
+
+Modified Files:
+	Builder.h DMDocClient.h XercesBuilder.h 
+Log Message:
+Code changes for compatability with Xerces 2.6.0 
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Nov 10 11:48:28 PST 2004
 detModel/cmt
 
