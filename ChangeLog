@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Thu Oct 18 00:52:12 PDT 2001
+detModel/src/Management GDDVRMLSectionsVisitor.cpp
+
+Modified Files:
+	GDDVRMLSectionsVisitor.cpp 
+Log Message:
+New GDDVRMLvisitor; fixed some problems when no mother volume is specified
+    *
+------------------------------------------------------------
 User: riccardo  Thu Oct 18 00:52:11 PDT 2001
 detModel/src main.cxx
 
