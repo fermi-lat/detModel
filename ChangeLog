@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Mon Oct 29 06:42:45 PST 2001
+detModel/src/Sections GDDboundingBox.cpp
+
+Modified Files:
+	GDDboundingBox.cpp 
+Log Message:
+Solved some trivial warnings in compilation
+    *
+------------------------------------------------------------
+User: riccardo  Mon Oct 29 06:42:45 PST 2001
 detModel/src/Management GDDFakeBuilder.cpp GDDVRMLSectionsVisitor.cpp
 
 Modified Files:
