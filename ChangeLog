@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: riccardo  Thu Mar 29 06:54:40 PST 2001
+detModel/src/Sections GDDaxisMPos.cpp GDDaxisPos.cpp GDDcomposition.cpp GDDstack.cpp
+
+Modified Files:
+	GDDaxisMPos.cpp GDDaxisPos.cpp GDDcomposition.cpp GDDstack.cpp 
+Log Message:
+Solved problems with Bounding Box, new version of GDDVRMLSectionsVisitor with automatic color scheme
+    *
+------------------------------------------------------------
+User: riccardo  Thu Mar 29 06:54:40 PST 2001
 detModel/src/Management GDDVRMLSectionsVisitor.cpp GDDXercesBuilder.cpp GDDmanager.cpp
 
 Modified Files:
