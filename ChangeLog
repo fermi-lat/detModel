@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Sat Aug 20 12:52:00 PDT 2005
+detModel/src/Management
+
+Modified Files:
+	IDmapBuilder.cxx 
+Log Message:
+Look for sensitive envelopes of compositions as well as sensitive simple shapes
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r18, operation: add
 Package: detModel
