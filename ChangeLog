@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar  1 11:14:41 PST 2006
+detModel/detModel/Sections
+
+Added Files:
+	Sphere.h 
+Log Message:
+Added missing files for Sphere stuff
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar  1 11:13:47 PST 2006
 detModel/src/Sections
 
