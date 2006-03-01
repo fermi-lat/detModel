@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar  1 08:03:06 PST 2006
+detModel/detModel/Management
+
+Modified Files:
+	CountMaterial.h IDmapBuilder.h SectionsVisitor.h 
+	VrmlSectionsVisitor.h XercesBuilder.h 
+Log Message:
+Added Sphere as a new possible shape.
+
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r18cl0, operation: add
 Package: detModel
