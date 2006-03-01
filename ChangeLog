@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: riccardo  Wed Mar  1 08:03:07 PST 2006
+detModel/src/Management
+
+Modified Files:
+	CountMaterial.cxx IDmapBuilder.cxx VrmlSectionsVisitor.cxx 
+	XercesBuilder.cxx 
+Log Message:
+Added Sphere as a new possible shape.
+
+
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar  1 08:03:06 PST 2006
 detModel/detModel/Management
 
