@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: riccardo  Thu Mar  2 01:38:12 PST 2006
+detModel/src/Management
+
+Modified Files:
+	IDmapBuilder.cxx 
+Log Message:
+Added a missing case in the class for the new Sphere shape
+
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Mar  1 17:22:04 PST 2006
 detModel/src/Management
 
