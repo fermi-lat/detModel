@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Mar  1 17:22:04 PST 2006
+detModel/src/Management
+
+Modified Files:
+	XercesBuilder.cxx 
+Log Message:
+Convert degrees to radians for spherical shell phi and theta
+
+    *
+------------------------------------------------------------
 User: riccardo  Wed Mar  1 11:14:41 PST 2006
 detModel/detModel/Sections
 
