@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Mar 22 22:31:39 PST 2006
+detModel/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use CLHEP v3
+    *
+------------------------------------------------------------
 User: usher  Mon Mar 20 17:30:14 PST 2006
 detModel/src/Management
 
