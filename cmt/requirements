@@ -1,7 +1,7 @@
 package detModel
 
-# $Header: /nfs/slac/g/glast/ground/cvs/detModel/cmt/requirements,v 1.47 2005/08/20 21:23:19 jrb Exp $
-version v2r18p2
+# $Header: /nfs/slac/g/glast/ground/cvs/detModel/cmt/requirements,v 1.48 2006/03/23 06:31:39 heather Exp $
+version v2r19
 
 author Riccardo Giannitrapani <riccardo@fisica.uniud.it>
 author Joanne Bogart <jrb@slac.stanford.edu>
