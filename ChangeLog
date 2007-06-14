@@ -1,5 +1,18 @@
 ------------------------------------------------------------
 User: jrb  Thu Jun 14 15:06:42 PDT 2007
+detModel/src
+
+Modified Files:
+	main.cxx 
+Log Message:
+Add method IDmapBuilder::orderSensitive. It produces a list of sensitive
+volumes satisfy certain restrictions on VolumeIdentifier, ordered w.r.t.
+coordinate of specified dimension.
+Add code to test program main.cxx to test.
+
+    *
+------------------------------------------------------------
+User: jrb  Thu Jun 14 15:06:42 PDT 2007
 detModel/detModel/Management
 
 Modified Files:
