@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun 14 18:04:28 PDT 2007
+detModel/src
+
+Modified Files:
+	main.cxx 
+Log Message:
+Check for compatibility of id dict with our idea of ribbon ids
+
+    *
+------------------------------------------------------------
 User: jrb  Thu Jun 14 15:06:42 PDT 2007
 detModel/src/Management
 
