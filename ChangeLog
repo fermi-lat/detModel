@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: jrb  Mon Oct 22 17:16:49 PDT 2007
+detModel/detModel/Sections
+
+Added Files:
+	Trap.h 
+Log Message:
+Support for trapezoidal solids
+
+    *
+------------------------------------------------------------
+User: jrb  Mon Oct 22 17:16:49 PDT 2007
 detModel/detModel/Management
 
 Modified Files:
