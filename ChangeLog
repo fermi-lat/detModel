@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Fri Nov 16 11:24:25 PST 2007
+detModel/src/Sections
+
+Modified Files:
+	Composition.cxx 
+Log Message:
+Composition.cxx  eliminate unused include of math.h
+Vector.cxx       include cmath rather than math.h
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r21, operation: add
 Package: detModel
