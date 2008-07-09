@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: glastrm  Wed Jul  9 14:13:46 PDT 2008
+GlastRelease-scons/detModel
+
+Added Files:
+	SConscript detModelLib.py 
+Log Message:
+Added SConscript files to packages
+    *
+------------------------------------------------------------
 TAG
 Tag name: detModel-02-21-00, operation: add
 Package: detModel
