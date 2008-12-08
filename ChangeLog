@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Mon Dec  8 13:40:26 PST 2008
+GlastRelease-scons/detModel
+
+Modified Files:
+	SConscript 
+Log Message:
+Check in SConscript for detModel v2r21 (for branch-tag, GlastReleasev15r49) 
+    *
+------------------------------------------------------------
 User: ecephas  Fri Aug 15 14:22:46 PDT 2008
 GlastRelease-scons/detModel
 
