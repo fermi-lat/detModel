@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+TAG
+Tag name: detModel-02-21-00, operation: add
+Package: detModel
+User: ecephas  Mon Dec  8 13:40:32 2008
+Files:
+  detModel/SConscript  1.3
+  detModel/SConscript  1.3
+
+    *
+------------------------------------------------------------
 User: ecephas  Mon Dec  8 13:40:26 PST 2008
 GlastRelease-scons/detModel
 
