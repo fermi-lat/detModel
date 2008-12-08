@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/detModel/SConscript,v 1.1 2008/07/09 21:13:46 glastrm Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/detModel/SConscript,v 1.2 2008/08/15 21:22:46 ecephas Exp $
 # Authors: Riccardo Giannitrapani <riccardo@fisica.uniud.it>, Joanne Bogart <jrb@slac.stanford.edu>
 # Version: detModel-02-21-00
 Import('baseEnv')
@@ -17,4 +17,9 @@ progEnv.Tool('xmlUtilLib')
 progEnv.Tool('identsLib')
 test_detModel = progEnv.Program('test_detModel',[ 'src/main.cxx'])
 
-progEnv.Tool('registerObjects', package = 'detModel', libraries = [detModel], testApps = [test_detModel], includes = listFiles(['detModel/*'], recursive = 1))
+progEnv.Tool('registerObjects', package = 'detModel', libraries = [detModel],
+             testApps = [test_detModel],
+             includes = listFiles(['detModel/*'], recursive = 1))
+
+
+
