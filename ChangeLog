@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+TAG
+Tag name: detModel-02-21-00, operation: add
+Package: detModel
+User: ecephas  Mon Dec  8 16:08:51 2008
+Files:
+  detModel/detModelLib.py  1.2
+  detModel/detModelLib.py  1.2
+
+    *
+------------------------------------------------------------
 User: ecephas  Mon Dec  8 16:08:45 PST 2008
 GlastRelease-scons/detModel
 
