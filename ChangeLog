@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-15-49-00, operation: add
+Package: detModel
+User: glastrm  Fri Jan  9 13:28:40 2009
+Files:
+  detModel/detModelLib.py  1.2
+  detModel/SConscript  1.3
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-15-50-10, operation: del
 Package: detModel
 User: glastrm  Fri Jan  9 08:31:37 2009
