@@ -1,4 +1,18 @@
 ------------------------------------------------------------
+TAG
+Tag name: detModel-02-21-00, operation: mov
+Package: detModel
+User: glastrm  Thu Jan 22 16:31:52 2009
+Files:
+  detModel/SConscript  1.4
+  detModel/SConscript  1.4
+  detModel/SConscript  1.4
+  detModel/detModelLib.py  1.3
+  detModel/detModelLib.py  1.3
+  detModel/detModelLib.py  1.3
+
+    *
+------------------------------------------------------------
 User: ecephas  Thu Jan 22 16:21:07 PST 2009
 GlastRelease-scons/detModel
 
