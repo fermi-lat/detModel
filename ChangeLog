@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Thu Aug  6 16:59:02 PDT 2009
+GlastRelease-scons/detModel
+
+Modified Files:
+	SConscript detModelLib.py 
+Log Message:
+SConscript: use registerTargets; eliminate lines belonging in detModelLib.py
+detModelLib.py:  explicitly list all packages directly used by detModel
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: detModel-02-21-00, operation: mov
 Package: detModel
