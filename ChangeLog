@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun 10 17:43:46 PDT 2010
+GlastRelease-scons/detModel
+
+Modified Files:
+	.cvsignore SConscript 
+Log Message:
+updates for SCons build
+    *
+------------------------------------------------------------
 TAG
 Tag name: detModel-02-21-01, operation: add
 Package: detModel
