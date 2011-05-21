@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sat May 21 13:13:17 PDT 2011
+detModel
+
+Modified Files:
+	SConscript 
+Log Message:
+use of CLHEP
+    *
+------------------------------------------------------------
 TAG
 Tag name: detModel-02-21-02, operation: add
 Package: detModel
