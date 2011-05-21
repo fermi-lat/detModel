@@ -1,7 +1,7 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/detModel/SConscript,v 1.7 2010/06/11 00:43:46 jrb Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/detModel/SConscript,v 1.8 2010/06/12 22:43:06 jrb Exp $
 # Authors: Riccardo Giannitrapani <riccardo@fisica.uniud.it>, Joanne Bogart <jrb@slac.stanford.edu>
-# Version: detModel-02-21-02
+# Version: detModel-02-21-03
 Import('baseEnv')
 Import('listFiles')
 Import('packages')
