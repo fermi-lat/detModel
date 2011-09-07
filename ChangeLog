@@ -2,6 +2,38 @@
 TAG
 Tag name: GlastRelease-17-35-24-gr04, operation: add
 Package: detModel
+User: heather  Wed Sep  7 14:12:52 2011
+Files:
+  detModel/detModel/Constants/DoubleConst.h  1.2
+  detModel/detModel/Constants/ConstCategory.h  1.1
+  detModel/detModel/Constants/IntConst.h  1.1
+  detModel/detModel/Constants/Constants.h  1.1
+  detModel/detModel/Constants/Const.h  1.3
+  detModel/detModel/Constants/StringConst.h  1.1
+  detModel/detModel/Constants/FloatConst.h  1.1
+  detModel/detModel/Management/MaterialsVisitor.h  1.1
+  detModel/detModel/Management/ConstantsVisitor.h  1.1
+  detModel/detModel/Management/PrinterConstantsVisitor.h  1.1
+  detModel/detModel/Management/XercesBuilder.h  1.14
+  detModel/detModel/Management/HtmlConstantsVisitor.h  1.2
+  detModel/detModel/Management/FakeBuilder.h  1.1
+  detModel/detModel/Management/CountMaterial.h  1.5
+  detModel/detModel/Management/PrinterMaterialsVisitor.h  1.2
+  detModel/detModel/Management/Manager.h  1.9
+  detModel/detModel/Management/Builder.h  1.6
+  detModel/detModel/Management/DMDocClient.h  1.7
+  detModel/detModel/Management/Visitor.h  1.1
+  detModel/detModel/Management/PrinterSectionsVisitor.h  1.5
+  detModel/detModel/Management/IDmapBuilder.h  1.16
+  detModel/detModel/Management/VrmlSectionsVisitor.h  1.7
+  detModel/detModel/Management/DawnSectionsVisitor.h  1.6
+  detModel/detModel/Management/SectionsVisitor.h  1.8
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-gr04, operation: add
+Package: detModel
 User: heather  Wed Sep  7 14:12:35 2011
 Files:
   detModel/detModel/mainpage.h  1.6
