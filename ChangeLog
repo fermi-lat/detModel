@@ -1,5 +1,23 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-19-03-07, operation: add
+Package: detModel
+User: heather  Wed Sep  7 10:21:53 2011
+Files:
+  detModel/.cvsignore  1.5
+  detModel/ChangeLog  1.523
+  detModel/detModelLib.py  1.4
+  detModel/SConscript  1.9
+  detModel/cmt/.cvsignore  1.1
+  detModel/cmt/NMake  1.1.1.1
+  detModel/cmt/requirements  1.54
+  detModel/cmt/Makefile  1.1.1.1
+  detModel/detModel/mainpage.h  1.6
+  detModel/detModel/Gdd.h  1.5
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-19-03-07, operation: del
 Package: detModel
 User: glastrm  Tue Sep  6 14:16:29 2011
