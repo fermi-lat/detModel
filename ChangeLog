@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Wed Jan 11 11:06:34 PST 2012
+detModel
+
+Modified Files:
+	SConscript 
+Log Message:
+stag/GoGui_auto-tag
+    *
+------------------------------------------------------------
 User: jrb  Wed Jan 11 11:01:15 PST 2012
 GlastRelease-scons/detModel/detModel/Utilities
 
