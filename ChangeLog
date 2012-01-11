@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Wed Jan 11 11:01:15 PST 2012
+GlastRelease-scons/detModel/detModel/Utilities
+
+Modified Files:
+	Global.h 
+Log Message:
+patch for gcc44; thanks, Johann
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr17, operation: add
 Package: detModel
