@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-17-35-24-rp05, operation: add
+Package: detModel
+User: heather  Tue Apr 17 10:32:52 2012
+Files:
+  detModel/.cvsignore  1.5
+  detModel/ChangeLog  1.522
+  detModel/detModelLib.py  1.4
+  detModel/SConscript  1.8
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-17-35-24-gr25, operation: add
 Package: detModel
 User: heather  Mon Apr 16 13:20:05 2012
