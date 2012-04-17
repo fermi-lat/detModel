@@ -4,6 +4,37 @@ Tag name: GlastRelease-17-35-24-rp05, operation: add
 Package: detModel
 User: heather  Tue Apr 17 10:32:53 2012
 Files:
+  detModel/detModel/Sections/StackedPos.h  1.1
+  detModel/detModel/Sections/Seg.h  1.1
+  detModel/detModel/Sections/Stack.h  1.1
+  detModel/detModel/Sections/Shape.h  1.4
+  detModel/detModel/Sections/LogicalOp.h  1.1
+  detModel/detModel/Sections/Ensemble.h  1.1
+  detModel/detModel/Sections/Boundable.h  1.1
+  detModel/detModel/Sections/Trap.h  1.1
+  detModel/detModel/Sections/Cone.h  1.1
+  detModel/detModel/Sections/Sphere.h  1.1
+  detModel/detModel/Sections/Volume.h  1.2
+  detModel/detModel/Sections/SinglePos.h  1.1
+  detModel/detModel/Sections/Choice.h  1.2
+  detModel/detModel/Sections/Box.h  1.4
+  detModel/detModel/Sections/BoundingBox.h  1.1
+  detModel/detModel/Sections/Position.h  1.1
+  detModel/detModel/Sections/Composition.h  1.1
+  detModel/detModel/Sections/Units.h  1.1
+  detModel/detModel/Sections/PosXYZ.h  1.2
+  detModel/detModel/Sections/AxisMPos.h  1.2
+  detModel/detModel/Sections/Tube.h  1.3
+  detModel/detModel/Sections/Section.h  1.3
+  detModel/detModel/Sections/IdField.h  1.3
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-rp05, operation: add
+Package: detModel
+User: heather  Tue Apr 17 10:32:53 2012
+Files:
   detModel/detModel/Management/MaterialsVisitor.h  1.1
   detModel/detModel/Management/ConstantsVisitor.h  1.1
   detModel/detModel/Management/PrinterConstantsVisitor.h  1.1
