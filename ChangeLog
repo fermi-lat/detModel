@@ -4,6 +4,18 @@ Tag name: GlastRelease-17-35-24-rp05, operation: add
 Package: detModel
 User: heather  Tue Apr 17 10:32:52 2012
 Files:
+  detModel/cmt/.cvsignore  1.1
+  detModel/cmt/NMake  1.1.1.1
+  detModel/cmt/requirements  1.53
+  detModel/cmt/Makefile  1.1.1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-rp05, operation: add
+Package: detModel
+User: heather  Tue Apr 17 10:32:52 2012
+Files:
   detModel/.cvsignore  1.5
   detModel/ChangeLog  1.522
   detModel/detModelLib.py  1.4
