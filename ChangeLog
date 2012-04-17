@@ -4,6 +4,16 @@ Tag name: GlastRelease-17-35-24-rp05, operation: add
 Package: detModel
 User: heather  Tue Apr 17 10:32:52 2012
 Files:
+  detModel/detModel/mainpage.h  1.6
+  detModel/detModel/Gdd.h  1.5
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-rp05, operation: add
+Package: detModel
+User: heather  Tue Apr 17 10:32:52 2012
+Files:
   detModel/cmt/.cvsignore  1.1
   detModel/cmt/NMake  1.1.1.1
   detModel/cmt/requirements  1.53
