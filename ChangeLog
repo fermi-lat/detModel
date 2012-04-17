@@ -4,6 +4,26 @@ Tag name: GlastRelease-17-35-24-rp05, operation: add
 Package: detModel
 User: heather  Tue Apr 17 10:32:54 2012
 Files:
+  detModel/src/Management/XercesBuilder.cxx  1.30
+  detModel/src/Management/HtmlConstantsVisitor.cxx  1.5
+  detModel/src/Management/FakeBuilder.cxx  1.2
+  detModel/src/Management/DMDocClient.cxx  1.6
+  detModel/src/Management/DawnSectionsVisitor.cxx  1.4
+  detModel/src/Management/Manager.cxx  1.7
+  detModel/src/Management/PrinterMaterialsVisitor.cxx  1.2
+  detModel/src/Management/CountMaterial.cxx  1.4
+  detModel/src/Management/IDmapBuilder.cxx  1.19
+  detModel/src/Management/PrinterSectionsVisitor.cxx  1.4
+  detModel/src/Management/VrmlSectionsVisitor.cxx  1.8
+  detModel/src/Management/PrinterConstantsVisitor.cxx  1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-rp05, operation: add
+Package: detModel
+User: heather  Tue Apr 17 10:32:54 2012
+Files:
   detModel/src/Constants/ConstCategory.cxx  1.1
   detModel/src/Constants/Const.cxx  1.2
   detModel/src/Constants/Constants.cxx  1.1
