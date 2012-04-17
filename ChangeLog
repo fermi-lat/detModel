@@ -4,6 +4,16 @@ Tag name: GlastRelease-17-35-24-rp05, operation: add
 Package: detModel
 User: heather  Tue Apr 17 10:32:54 2012
 Files:
+  detModel/src/Utilities/Vector.cxx  1.2
+  detModel/src/Utilities/ColorCreator.cxx  1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-rp05, operation: add
+Package: detModel
+User: heather  Tue Apr 17 10:32:54 2012
+Files:
   detModel/src/Sections/Ensemble.cxx  1.2
   detModel/src/Sections/Units.cxx  1.1
   detModel/src/Sections/AxisMPos.cxx  1.6
