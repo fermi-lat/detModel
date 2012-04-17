@@ -4,6 +4,17 @@ Tag name: GlastRelease-17-35-24-rp05, operation: add
 Package: detModel
 User: heather  Tue Apr 17 10:32:54 2012
 Files:
+  detModel/src/Constants/ConstCategory.cxx  1.1
+  detModel/src/Constants/Const.cxx  1.2
+  detModel/src/Constants/Constants.cxx  1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-rp05, operation: add
+Package: detModel
+User: heather  Tue Apr 17 10:32:54 2012
+Files:
   detModel/src/main.cxx  1.43
   detModel/src/Gdd.cxx  1.5
 
