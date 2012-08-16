@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/detModel/SConscript,v 1.9 2011/05/21 20:13:17 heather Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/detModel/SConscript,v 1.10 2012/01/11 19:06:34 jrb Exp $
 # Authors: Riccardo Giannitrapani <riccardo@fisica.uniud.it>, Joanne Bogart <jrb@slac.stanford.edu>
 # Version: detModel-02-21-04
 Import('baseEnv')
@@ -8,6 +8,7 @@ Import('packages')
 progEnv = baseEnv.Clone()
 libEnv = baseEnv.Clone()
 
+libEnv.Tool('addLinkDeps', package = 'detModel', toBuild='static')
 detModel = libEnv.StaticLibrary('detModel',
                                 listFiles(['src/Management/*.cxx',
                                            'src/Sections/*.cxx',
