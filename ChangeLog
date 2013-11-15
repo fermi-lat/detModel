@@ -1,5 +1,117 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-20-09-05, operation: add
+Package: detModel
+User: heather  Fri Nov 15 09:15:48 2013
+Files:
+  detModel/.cvsignore  1.5
+  detModel/ChangeLog  1.659
+  detModel/detModelLib.py  1.5
+  detModel/SConscript  1.12
+  detModel/cmt/.cvsignore  1.1
+  detModel/cmt/NMake  1.1.1.1
+  detModel/cmt/requirements  1.56
+  detModel/cmt/Makefile  1.1.1.1
+  detModel/detModel/mainpage.h  1.6
+  detModel/detModel/Gdd.h  1.5
+  detModel/detModel/Constants/DoubleConst.h  1.2
+  detModel/detModel/Constants/ConstCategory.h  1.1
+  detModel/detModel/Constants/IntConst.h  1.1
+  detModel/detModel/Constants/Constants.h  1.1
+  detModel/detModel/Constants/Const.h  1.3
+  detModel/detModel/Constants/StringConst.h  1.1
+  detModel/detModel/Constants/FloatConst.h  1.1
+  detModel/detModel/Management/MaterialsVisitor.h  1.1
+  detModel/detModel/Management/ConstantsVisitor.h  1.1
+  detModel/detModel/Management/PrinterConstantsVisitor.h  1.1
+  detModel/detModel/Management/XercesBuilder.h  1.14
+  detModel/detModel/Management/HtmlConstantsVisitor.h  1.2
+  detModel/detModel/Management/FakeBuilder.h  1.1
+  detModel/detModel/Management/CountMaterial.h  1.5
+  detModel/detModel/Management/PrinterMaterialsVisitor.h  1.2
+  detModel/detModel/Management/Manager.h  1.9
+  detModel/detModel/Management/Builder.h  1.6
+  detModel/detModel/Management/DMDocClient.h  1.7
+  detModel/detModel/Management/Visitor.h  1.1
+  detModel/detModel/Management/PrinterSectionsVisitor.h  1.5
+  detModel/detModel/Management/IDmapBuilder.h  1.16
+  detModel/detModel/Management/VrmlSectionsVisitor.h  1.7
+  detModel/detModel/Management/DawnSectionsVisitor.h  1.6
+  detModel/detModel/Management/SectionsVisitor.h  1.8
+  detModel/detModel/Materials/Composite.h  1.2
+  detModel/detModel/Materials/MatCollection.h  1.2
+  detModel/detModel/Materials/Material.h  1.1
+  detModel/detModel/Materials/Element.h  1.1
+  detModel/detModel/Sections/StackedPos.h  1.1
+  detModel/detModel/Sections/Seg.h  1.1
+  detModel/detModel/Sections/Stack.h  1.1
+  detModel/detModel/Sections/Shape.h  1.4
+  detModel/detModel/Sections/LogicalOp.h  1.1
+  detModel/detModel/Sections/Ensemble.h  1.1
+  detModel/detModel/Sections/Boundable.h  1.1
+  detModel/detModel/Sections/Trap.h  1.1
+  detModel/detModel/Sections/Cone.h  1.1
+  detModel/detModel/Sections/Sphere.h  1.1
+  detModel/detModel/Sections/Volume.h  1.2
+  detModel/detModel/Sections/SinglePos.h  1.1
+  detModel/detModel/Sections/Choice.h  1.2
+  detModel/detModel/Sections/Box.h  1.4
+  detModel/detModel/Sections/BoundingBox.h  1.1
+  detModel/detModel/Sections/Position.h  1.1
+  detModel/detModel/Sections/Composition.h  1.1
+  detModel/detModel/Sections/Units.h  1.1
+  detModel/detModel/Sections/PosXYZ.h  1.2
+  detModel/detModel/Sections/AxisMPos.h  1.2
+  detModel/detModel/Sections/Tube.h  1.3
+  detModel/detModel/Sections/Section.h  1.3
+  detModel/detModel/Sections/IdField.h  1.3
+  detModel/detModel/Utilities/PositionedVolume.h  1.4
+  detModel/detModel/Utilities/ColorCreator.h  1.2
+  detModel/detModel/Utilities/Color.h  1.2
+  detModel/detModel/Utilities/Vector.h  1.2
+  detModel/detModel/Utilities/Purge.h  1.1
+  detModel/detModel/Utilities/Global.h  1.4
+  detModel/doc/release.notes  1.31
+  detModel/src/main.cxx  1.43
+  detModel/src/Gdd.cxx  1.5
+  detModel/src/Constants/ConstCategory.cxx  1.1
+  detModel/src/Constants/Const.cxx  1.2
+  detModel/src/Constants/Constants.cxx  1.1
+  detModel/src/Management/XercesBuilder.cxx  1.30
+  detModel/src/Management/HtmlConstantsVisitor.cxx  1.5
+  detModel/src/Management/FakeBuilder.cxx  1.2
+  detModel/src/Management/DMDocClient.cxx  1.6
+  detModel/src/Management/DawnSectionsVisitor.cxx  1.4
+  detModel/src/Management/Manager.cxx  1.7
+  detModel/src/Management/PrinterMaterialsVisitor.cxx  1.2
+  detModel/src/Management/CountMaterial.cxx  1.4
+  detModel/src/Management/IDmapBuilder.cxx  1.19
+  detModel/src/Management/PrinterSectionsVisitor.cxx  1.4
+  detModel/src/Management/VrmlSectionsVisitor.cxx  1.8
+  detModel/src/Management/PrinterConstantsVisitor.cxx  1.1
+  detModel/src/Materials/MatCollection.cxx  1.3
+  detModel/src/Materials/Element.cxx  1.1
+  detModel/src/Materials/Composite.cxx  1.4
+  detModel/src/Sections/Ensemble.cxx  1.2
+  detModel/src/Sections/Units.cxx  1.1
+  detModel/src/Sections/AxisMPos.cxx  1.6
+  detModel/src/Sections/Tube.cxx  1.1
+  detModel/src/Sections/Trap.cxx  1.1
+  detModel/src/Sections/PosXYZ.cxx  1.1
+  detModel/src/Sections/BoundingBox.cxx  1.3
+  detModel/src/Sections/Section.cxx  1.2
+  detModel/src/Sections/Sphere.cxx  1.1
+  detModel/src/Sections/Composition.cxx  1.2
+  detModel/src/Sections/IdField.cxx  1.2
+  detModel/src/Sections/Choice.cxx  1.5
+  detModel/src/Sections/Box.cxx  1.1
+  detModel/src/Sections/Stack.cxx  1.3
+  detModel/src/Utilities/Vector.cxx  1.2
+  detModel/src/Utilities/ColorCreator.cxx  1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-17-35-24-lp61, operation: add
 Package: detModel
 User: heather  Tue Oct 22 10:03:09 2013
